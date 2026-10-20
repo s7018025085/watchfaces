@@ -1,0 +1,27 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4800443",
+  "name": "Su27",
+  "slug": "Su27",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-20T07:42:21.881Z",
+  "files": {
+    "Su27.zpk": {
+      "sha256": "243e31cd406b98c816b70a954e0ff0767355f86b1af884b53c3e7294ce88127b",
+      "size": 488638
+    },
+    "device.zip": {
+      "sha256": "d5d68d716e8779189d18930b2bdbde0c914960aa998b5dd0f4baceb680b29c26",
+      "size": 486920
+    },
+    "project.zip": {
+      "sha256": "4efc0f4e0ef9927820f71fc5d21281bb06ce0c92f32def01a9db2e7e0fc93f07",
+      "size": 3940979
+    },
+    "Su27.watchface.json": {
+      "sha256": "43c5b4d69338957b80f39204decb652673a529b4810fd6951eda759e43a6cfba",
+      "size": 5812719
+    }
+  }
+}
