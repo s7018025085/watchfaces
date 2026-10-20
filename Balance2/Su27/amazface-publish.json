@@ -5,23 +5,23 @@
   "name": "Su27",
   "slug": "Su27",
   "version": "1.0.0",
-  "publishedAt": "2026-10-20T07:43:33.989Z",
+  "publishedAt": "2026-10-20T08:14:26.234Z",
   "files": {
     "Su27.zpk": {
-      "sha256": "844def1c2c1d32747bb8d881116361cb472022f770cf2bae67f0820d68869b12",
-      "size": 488671
+      "sha256": "4e0f2c078adb0e7ad55170ba78b1a373806a2a6430bc5be9e7e75685c483c54c",
+      "size": 488081
     },
     "device.zip": {
-      "sha256": "e8cead19ea1460b42b8b8629e2d3f8ebcf03f169c8673fd1d3cd04d0376c3659",
-      "size": 486953
+      "sha256": "e03d6cbf4cc35d3a697c21880d9af39c6ba945fdc4f7d6059098db37040c7bb6",
+      "size": 487013
     },
     "project.zip": {
-      "sha256": "cfd3d65414ea60e66cb19c98051a3f01519c7be5e29649f020896dea8bd00f2d",
-      "size": 3942089
+      "sha256": "e3741f2295c8e8de28942530327e0b36061f178a5b9bb2b64dce09510d95d436",
+      "size": 3941411
     },
     "Su27.watchface.json": {
-      "sha256": "6ac16f6e68842ed6e6a4502cdd73a6287705a6bb6a2654c705dc4b9c1e4e5066",
-      "size": 5813019
+      "sha256": "87f3925f86f832dd4755d6496864f9ec0acc166f99e6bc67a98055560dd80faf",
+      "size": 5812775
     }
   }
 }
