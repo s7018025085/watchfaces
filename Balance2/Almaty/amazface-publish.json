@@ -5,23 +5,23 @@
   "name": "Almaty",
   "slug": "Almaty",
   "version": "1.0.0",
-  "publishedAt": "2026-10-22T19:41:02.766Z",
+  "publishedAt": "2026-10-22T19:46:30.924Z",
   "files": {
     "Almaty.zpk": {
-      "sha256": "7b0748c71a26f34708954fcb5c72ef6e046e89f14ee107aa12bb4c2e11d4419e",
-      "size": 1580114
+      "sha256": "13e20d1e78ef508caf1bca9165cdaea9f10be60ba8c8dc7c53ba9c4427acd391",
+      "size": 1581849
     },
     "device.zip": {
-      "sha256": "f121ac39316bf358fed3f655c5b69723534f421862af5b7f4819186683dab1cb",
-      "size": 1595563
+      "sha256": "15f45ab964f1a10f397a2633eee738ab37c7b1c4eb8eed708142add7bcae6107",
+      "size": 1597279
     },
     "project.zip": {
-      "sha256": "1aa643c104bb82a6da1cb6bb5bd24d06248cb4d142b488be5378fb034c312166",
-      "size": 4012006
+      "sha256": "571969a0dbebb592c190effbdccd22995f74ca7074569939979fd46138585dec",
+      "size": 4012358
     },
     "Almaty.watchface.json": {
-      "sha256": "4e6fe0ca9fab8049bcb2c5c304cbf0235a7f702b29e6ce13ae9d881c525c52e4",
-      "size": 6259123
+      "sha256": "d145058c2cfd5195c53b814065fd2f1912664b12a1a7b03ec64a6987c3e52f95",
+      "size": 6259879
     }
   }
 }
