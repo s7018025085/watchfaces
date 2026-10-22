@@ -3,7 +3,7 @@
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-22T17:37:03.172Z
+- **Опубликовано:** 2026-10-22T18:23:34.208Z
 - **Установочный пакет:** [Su27.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Su27/Su27.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Su27/Su27.zpk`
 
