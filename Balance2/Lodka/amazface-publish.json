@@ -1,0 +1,27 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "10001",
+  "name": "Lodka",
+  "slug": "Lodka",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-22T16:41:00.423Z",
+  "files": {
+    "Lodka.zpk": {
+      "sha256": "25806e6b06ee8d7ebf6472cc83990f3347708fd1c19587eb0b9ec84b1e468eb1",
+      "size": 346308
+    },
+    "device.zip": {
+      "sha256": "b3c3a733a33fa15e260d8f081b1429987d4b620be8aea10836f643fbfa4c8868",
+      "size": 346451
+    },
+    "project.zip": {
+      "sha256": "ddeb0586b464d5d6d58b2c1270db250d42280586062baa54d56c3d94377ecb8d",
+      "size": 1889655
+    },
+    "Lodka.watchface.json": {
+      "sha256": "ab525848640a8d9ad3d78ef697c3b48bc19faa8fc3716cc05ae01a4705ac406f",
+      "size": 1003865
+    }
+  }
+}
