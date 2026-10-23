@@ -5,7 +5,7 @@
 ![Циферблат и QR-код для установки](watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-23T16:42:53.624Z
+- **Опубликовано:** 2026-10-23T16:51:10.855Z
 - **Установочный пакет:** [Almaty.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty/Almaty.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty/Almaty.zpk`
 
