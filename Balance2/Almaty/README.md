@@ -2,8 +2,10 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
+![Циферблат и QR-код для установки](watch-qr.png)
+
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-22T19:46:30.924Z
+- **Опубликовано:** 2026-10-23T15:27:50.826Z
 - **Установочный пакет:** [Almaty.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty/Almaty.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty/Almaty.zpk`
 
@@ -18,5 +20,6 @@
 - `Almaty.zpk` — установочный пакет
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
+- `watch-qr.png` — картинка «часы + QR-код» для установки
 - `Almaty.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
