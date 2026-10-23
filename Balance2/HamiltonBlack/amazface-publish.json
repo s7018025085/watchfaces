@@ -1,0 +1,27 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4576716",
+  "name": "HamiltonBlack",
+  "slug": "HamiltonBlack",
+  "version": "1.1.1",
+  "publishedAt": "2026-10-23T07:49:46.295Z",
+  "files": {
+    "HamiltonBlack.zpk": {
+      "sha256": "0b9fda46a1823f8b3e1f74600bd2fcd2eabb89eb7ed885a9cbc926b84259acc7",
+      "size": 1310192
+    },
+    "device.zip": {
+      "sha256": "3c1fe9e023b86be8fa4fee2a1b50c3104d903d1a424026f8c0df3e6e4cb45fb9",
+      "size": 1324863
+    },
+    "project.zip": {
+      "sha256": "6313f3028eff50eb344da81b38fead8fd685af5d0e864619313655d83e487677",
+      "size": 2920226
+    },
+    "HamiltonBlack.watchface.json": {
+      "sha256": "83ffffd099419de4e44b1022d3fbe68e5ceabc318f86ec7d83360bf9a76dd7b9",
+      "size": 2442348
+    }
+  }
+}
