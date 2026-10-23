@@ -1,0 +1,27 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4576716",
+  "name": "HamiltonPogoda",
+  "slug": "HamiltonPogoda",
+  "version": "1.1.1",
+  "publishedAt": "2026-10-23T07:57:33.575Z",
+  "files": {
+    "HamiltonPogoda.zpk": {
+      "sha256": "b9316d58d7434c665973cbb61e8abfb1570967979e67c20900ac5eec051ce6a8",
+      "size": 1308576
+    },
+    "device.zip": {
+      "sha256": "9faaa21ad7d3225b42f16917b2a2b3b31e0fc5716d34ccc615f3688bb913c528",
+      "size": 1323285
+    },
+    "project.zip": {
+      "sha256": "8af7729228d064fd8ba3c84c1c9341c40e675c027d2f570383e7d629484ec419",
+      "size": 2916622
+    },
+    "HamiltonPogoda.watchface.json": {
+      "sha256": "c27248753ab046e9ce04d3ccdf8042186b8552eb0e500b1e86cbb0b41dbd7a14",
+      "size": 2440595
+    }
+  }
+}
