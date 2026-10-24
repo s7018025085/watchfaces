@@ -31,6 +31,8 @@
   },
   "components": [
     {
+      "visible": true,
+      "locked": false,
       "id": "date_full_001",
       "defId": "date_full",
       "name": "Дата",
@@ -38,8 +40,6 @@
       "y": 244,
       "w": 220,
       "h": 40,
-      "visible": true,
-      "locked": false,
       "props": {
         "text_size": 28,
         "color": "#ffffff",
@@ -55,9 +55,29 @@
         "tap_metric": "STATUS",
         "tap_app_id": 0,
         "tap_app_url": "pages/index"
-      }
+      },
+      "tapZones": [
+        {
+          "id": "tap_001",
+          "name": "Тап-зона 1",
+          "x": 0,
+          "y": 0,
+          "w": 220,
+          "h": 40,
+          "visible": true,
+          "locked": false,
+          "props": {
+            "tap_action": "METRIC",
+            "tap_metric": "CALENDAR",
+            "tap_app_id": 0,
+            "tap_app_url": "pages/index"
+          }
+        }
+      ]
     },
     {
+      "visible": true,
+      "locked": false,
       "id": "text_001",
       "defId": "text",
       "name": "Текст",
@@ -65,8 +85,6 @@
       "y": 176,
       "w": 260,
       "h": 80,
-      "visible": true,
-      "locked": false,
       "props": {
         "text": "Привет",
         "data_source": "TIME",
@@ -128,7 +146,8 @@
           "on_wake": false,
           "on_change": true
         }
-      }
+      },
+      "tapZones": []
     }
   ],
   "assets": [
@@ -300,6 +319,8 @@
     "normal": {
       "components": [
         {
+          "visible": true,
+          "locked": false,
           "id": "date_full_001",
           "defId": "date_full",
           "name": "Дата",
@@ -307,8 +328,6 @@
           "y": 244,
           "w": 220,
           "h": 40,
-          "visible": true,
-          "locked": false,
           "props": {
             "text_size": 28,
             "color": "#ffffff",
@@ -324,9 +343,29 @@
             "tap_metric": "STATUS",
             "tap_app_id": 0,
             "tap_app_url": "pages/index"
-          }
+          },
+          "tapZones": [
+            {
+              "id": "tap_001",
+              "name": "Тап-зона 1",
+              "x": 0,
+              "y": 0,
+              "w": 220,
+              "h": 40,
+              "visible": true,
+              "locked": false,
+              "props": {
+                "tap_action": "METRIC",
+                "tap_metric": "CALENDAR",
+                "tap_app_id": 0,
+                "tap_app_url": "pages/index"
+              }
+            }
+          ]
         },
         {
+          "visible": true,
+          "locked": false,
           "id": "text_001",
           "defId": "text",
           "name": "Текст",
@@ -334,8 +373,6 @@
           "y": 176,
           "w": 260,
           "h": 80,
-          "visible": true,
-          "locked": false,
           "props": {
             "text": "Привет",
             "data_source": "TIME",
@@ -397,7 +434,8 @@
               "on_wake": false,
               "on_change": true
             }
-          }
+          },
+          "tapZones": []
         }
       ],
       "background": {
