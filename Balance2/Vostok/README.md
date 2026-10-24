@@ -5,7 +5,7 @@
 ![Циферблат и QR-код для установки](watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-24T08:40:36.425Z
+- **Опубликовано:** 2026-10-24T08:43:36.157Z
 - **Установочный пакет:** [Vostok.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Vostok/Vostok.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Vostok/Vostok.zpk`
 
