@@ -1,0 +1,31 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5091159",
+  "name": "VostokЕгерь",
+  "slug": "VostokEger",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-24T12:21:50.957Z",
+  "files": {
+    "VostokEger.zpk": {
+      "sha256": "2b3a4936d788937aa6df031917165ccc24b499eda7bc424f5e89dcb5da5a6b89",
+      "size": 494040
+    },
+    "device.zip": {
+      "sha256": "79ffa276616af3c1d7a266db57107ebfb9d854eb278273d01310500a7b93d466",
+      "size": 493964
+    },
+    "project.zip": {
+      "sha256": "c606010d31957c9cc1cf27238a4e7326793876c0cde402878442a250411f9cc8",
+      "size": 1976047
+    },
+    "VostokEger.watchface.json": {
+      "sha256": "5240ccd6fbecfa3cbfae3f00f503dea0dd517cb05c1a3b70f346f24a6ebee988",
+      "size": 5795358
+    },
+    "watch-qr.png": {
+      "sha256": "0d2da160ab5f36173e19ff2677682e8f171f351b518979ddc4bc72ee9201593e",
+      "size": 1836468
+    }
+  }
+}
