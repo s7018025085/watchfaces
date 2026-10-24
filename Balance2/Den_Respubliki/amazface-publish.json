@@ -1,0 +1,31 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5129216",
+  "name": "День Республики",
+  "slug": "Den_Respubliki",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-24T17:10:09.184Z",
+  "files": {
+    "Den_Respubliki.zpk": {
+      "sha256": "f1e6d417d6e3a2c7e14e9ed29e6e2d4d6a0ef7f5ef52b00bd70a688c66323e59",
+      "size": 290908
+    },
+    "device.zip": {
+      "sha256": "6381d1674461ec2cf2804e6863f2f739bf36e304233b994ea75ec0c0dce4dcb3",
+      "size": 290563
+    },
+    "project.zip": {
+      "sha256": "d6ef65815eb3b3a8c66f44f62531711d4761906286cbdfb88089832802e50b6b",
+      "size": 1743820
+    },
+    "Den_Respubliki.watchface.json": {
+      "sha256": "3a2578b8e781defb66f8dd2c35200f235637a933cc21a188d17d715b81f5856d",
+      "size": 3200431
+    },
+    "watch-qr.png": {
+      "sha256": "2690c5f90b61d8b9c80736392e78d5f95e13848f212961acd73f8e83249be3e4",
+      "size": 1916030
+    }
+  }
+}
