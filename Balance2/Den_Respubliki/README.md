@@ -5,7 +5,7 @@
 ![Циферблат и QR-код для установки](watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-24T17:28:11.683Z
+- **Опубликовано:** 2026-10-24T18:03:32.089Z
 - **Установочный пакет:** [Den_Respubliki.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Den_Respubliki/Den_Respubliki.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Den_Respubliki/Den_Respubliki.zpk`
 
