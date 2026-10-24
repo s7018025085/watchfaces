@@ -5,27 +5,27 @@
   "name": "Vostok",
   "slug": "Vostok",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T08:30:39.360Z",
+  "publishedAt": "2026-10-24T08:35:17.844Z",
   "files": {
     "Vostok.zpk": {
-      "sha256": "23efa5cd38a1e5ea3d3b9a66223bb079e1c5214b5d1afa1f176846f42bc968f1",
-      "size": 358639
+      "sha256": "5b0111337145cdf8825f26b5c60a934348cadf06e44fdcce95e680fbe9060eb2",
+      "size": 361360
     },
     "device.zip": {
-      "sha256": "3d709bafcc21e273970740a896474f0dfc9659f4b39dca9a16f3baa0b9b0dcd7",
-      "size": 358544
+      "sha256": "418ae2b343fe3388bc352aede567497e0bafe4a4c5ad5b9007de17826da4c7d3",
+      "size": 361253
     },
     "project.zip": {
-      "sha256": "29263aec3a9d9d0a938147abaea909734cb1a857a6cf8cd52a63be8c3e137592",
-      "size": 1629249
+      "sha256": "6797c31df3189d91092f0c5fc47cc943156c41b3211e30c27961e01b35322b7f",
+      "size": 1623903
     },
     "Vostok.watchface.json": {
-      "sha256": "373cf96304c23eeb0adc92b31a27123a022f913e419663f42ff9cef3abc8384a",
-      "size": 3193110
+      "sha256": "7b30dede91b799f94342ba8250b50c99283c9dbb066b6819423ef152e5d67616",
+      "size": 3192322
     },
     "watch-qr.png": {
-      "sha256": "5b0b5c10d717a95c87551446794c8aff1ed169dfb03c927b7a1472eeac282525",
-      "size": 1673000
+      "sha256": "dc1719ec609567d7dd13173316ab2dfc7bd1f23ebc5606b714435a1657858865",
+      "size": 1762998
     }
   }
 }
