@@ -1,0 +1,31 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5091159",
+  "name": "Vostok",
+  "slug": "Vostok",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-24T07:45:46.712Z",
+  "files": {
+    "Vostok.zpk": {
+      "sha256": "6cc5bc43e5c8287b18295e02bac91df0eddcb4657bc1d597b4b84b11bdabb32c",
+      "size": 359887
+    },
+    "device.zip": {
+      "sha256": "1bab080d91767ca938c7588ab6bc52a74124d0f99f796c3aad2ba4c306899863",
+      "size": 359780
+    },
+    "project.zip": {
+      "sha256": "cb8a0d5f5bb4f1dfe44cc0836de36935d2b8b84397db861b8af3c3d75ceaa698",
+      "size": 1626390
+    },
+    "Vostok.watchface.json": {
+      "sha256": "0c019b282c680f2123a5fef4ea712988c22e9149a42b8fc8e44435a89b92982b",
+      "size": 3189859
+    },
+    "watch-qr.png": {
+      "sha256": "85549e6076bc6ace4fe9464b14cca30435a4815e30c5c115393c13eebd3aa2f1",
+      "size": 1972223
+    }
+  }
+}
