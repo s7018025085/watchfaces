@@ -1,0 +1,31 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6281965",
+  "name": "Звёздный рубеж",
+  "slug": "Zvezdnyy_rubezh",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-24T12:59:21.540Z",
+  "files": {
+    "Zvezdnyy_rubezh.zpk": {
+      "sha256": "5a79f3283b0e4b1315095f442eba431d58f465de59086bc8cb9311ff45adb0b9",
+      "size": 350447
+    },
+    "device.zip": {
+      "sha256": "b1f7e0c18a82fc3c428055357abceeff195f1c2373d5612aa7df1653e5c44646",
+      "size": 350409
+    },
+    "project.zip": {
+      "sha256": "818f8094c30e6ec375f7b6b792057c1474a1543800c6ce9b5ff40315ae2ca1ec",
+      "size": 1586608
+    },
+    "Zvezdnyy_rubezh.watchface.json": {
+      "sha256": "3ae1008201b797a99a2ef6e93290ba75e36c73c4e4a53efbd05b699c3a7f6bf0",
+      "size": 3243089
+    },
+    "watch-qr.png": {
+      "sha256": "661d95f8c513946fc12a02f5cd34361a7361720415bde3520f361cdedc12f6f4",
+      "size": 1823113
+    }
+  }
+}
