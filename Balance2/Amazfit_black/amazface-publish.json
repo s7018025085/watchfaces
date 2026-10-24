@@ -1,0 +1,31 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "6281965",
+  "name": "Amazfit black",
+  "slug": "Amazfit_black",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-24T16:39:43.971Z",
+  "files": {
+    "Amazfit_black.zpk": {
+      "sha256": "c069a3aa255d12275dc6dd3f97d3b9c025dad4fd9142da203f8221c4a3037f09",
+      "size": 486229
+    },
+    "device.zip": {
+      "sha256": "3741412458d04a390177be9e8c9fad21f7e132058a706beb0d96f0469b5a7c9a",
+      "size": 486219
+    },
+    "project.zip": {
+      "sha256": "789b69d48ce71e3e3454105a0a42403de280ab2a60f45d839075f57e75724317",
+      "size": 1997727
+    },
+    "Amazfit_black.watchface.json": {
+      "sha256": "fc590ee91658ebd3bf716ea9daf8f7aa2596f98b417745f92ddda295da22f03a",
+      "size": 6188199
+    },
+    "watch-qr.png": {
+      "sha256": "148fd45838424fe75dd2dee0f8a76a1c4761a3c81926914460f59d313c6cbbd7",
+      "size": 1830029
+    }
+  }
+}
