@@ -5,18 +5,18 @@
   "name": "День Республики",
   "slug": "Den_Respubliki",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T17:28:11.683Z",
+  "publishedAt": "2026-10-24T18:03:32.089Z",
   "files": {
     "Den_Respubliki.zpk": {
-      "sha256": "348d193db117ff6639512eeea08cf85da0f68821fdf33fc69b2f2e2963d49b2b",
-      "size": 291355
+      "sha256": "23f130575bb9b26992a31133f2168d272ae48fca6068736ea215ac444f55cb27",
+      "size": 291360
     },
     "device.zip": {
-      "sha256": "6fed8416f3a3928e2a3d89ed160f34068a9bb21ec7e3fbc3f2d3c705368ce6b2",
-      "size": 291018
+      "sha256": "43856ae886cbb94bbfa124267452c8332cc1608c9d84db5a587a6e46433ccae9",
+      "size": 291019
     },
     "project.zip": {
-      "sha256": "74d0ff8b74aa7fbc8408460c6833f5a9bf4e6cdae6b2f7eacf4c532762038611",
+      "sha256": "5c32a5e8a2aff9172ae2560090e6318ec2f820c00cf00d52d6f5ce2c1d83f761",
       "size": 1747333
     },
     "Den_Respubliki.watchface.json": {
