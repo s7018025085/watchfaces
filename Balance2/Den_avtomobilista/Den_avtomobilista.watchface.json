@@ -138,7 +138,7 @@
         "time_format": "HH:MM:SS",
         "text_anim": {
           "v": 1,
-          "enabled": true,
+          "enabled": false,
           "effect": "reveal",
           "duration": 800,
           "delay": 0,
@@ -827,7 +827,7 @@
             "time_format": "HH:MM:SS",
             "text_anim": {
               "v": 1,
-              "enabled": true,
+              "enabled": false,
               "effect": "reveal",
               "duration": 800,
               "delay": 0,
