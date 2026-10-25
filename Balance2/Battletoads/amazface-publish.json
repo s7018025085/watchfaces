@@ -5,26 +5,26 @@
   "name": "Battletoads",
   "slug": "Battletoads",
   "version": "1.0.0",
-  "publishedAt": "2026-10-25T15:00:02.226Z",
+  "publishedAt": "2026-10-25T15:11:12.258Z",
   "files": {
     "Battletoads.zpk": {
-      "sha256": "69585d0dddd1ad41b6eee50a15a8f7fe56fde51c63cb47325f678a3bdfaf47d5",
-      "size": 941358
+      "sha256": "4bc88873cfadd1e5185c436cb59f7f210f3944fc1db9970a206f7233dcd71fd9",
+      "size": 941353
     },
     "device.zip": {
-      "sha256": "e164801c492ba5a60191491a68b2b9b511d7701d3c430c3daae16ca3ab61119c",
-      "size": 1091735
+      "sha256": "89528e4c8b4700eba1bd82ff1f292c03fd642a86d1e84c81bfeaa9307ca2a432",
+      "size": 1091733
     },
     "project.zip": {
-      "sha256": "ca2167648aab8164cbb7bc4bc06f59d6853d2e03a6b43da22e63828a54ef26ed",
+      "sha256": "ac538c409215a63406ee537ab0c13229fe0d195038fd7bb0f6fbb85d101e7dda",
       "size": 3597693
     },
     "Battletoads.watchface.json": {
-      "sha256": "16592dea188eeb835fd0ac651bd0a18a90d1cd43b698cbac970df9b8a07c4642",
+      "sha256": "8b34bb3d4bac3ddb2738695bbefe12ef00a4dcadde31a06d589a679ca18f608a",
       "size": 5135897
     },
     "Battletoads-watch.png": {
-      "sha256": "380cd5a1e342ab6b3b891a595fc19af2fd0072cdbb455ff8ed2530c8965124d0",
+      "sha256": "6cf1ca6c7d376ebfaef4988e701fbc41f2091f7c53e0a0fec0912fe98d555061",
       "size": 771977
     },
     "Battletoads-watch-200.png": {
@@ -32,8 +32,8 @@
       "size": 53494
     },
     "Battletoads-watch-qr.png": {
-      "sha256": "100574857ec65935f4d5a0fd2563c1592dea8aa28dde7baee66deec5dc165f12",
-      "size": 1780384
+      "sha256": "ade487fd2c329d52e48baa939bad80c9a0a3eb7ed0a93f31e530c6d6c3cfc76e",
+      "size": 1780357
     }
   }
 }
