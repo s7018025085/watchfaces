@@ -5,7 +5,7 @@
 ![Часы с циферблатом и QR-кодом для установки](Den_avtomobilista-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-25T05:27:58.224Z
+- **Опубликовано:** 2026-10-25T05:55:03.987Z
 - **Установочный пакет:** [Den_avtomobilista.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Den_avtomobilista/Den_avtomobilista.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Den_avtomobilista/Den_avtomobilista.zpk`
 
