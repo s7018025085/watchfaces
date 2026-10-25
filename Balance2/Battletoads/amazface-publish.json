@@ -5,39 +5,39 @@
   "name": "Battletoads",
   "slug": "Battletoads",
   "version": "1.0.0",
-  "publishedAt": "2026-10-25T16:37:48.408Z",
+  "publishedAt": "2026-10-25T16:45:04.959Z",
   "files": {
     "Battletoads.zpk": {
-      "sha256": "922fcc9726a4e65c7ac653da5561076165d43e45b3152b32818c0d7945d5eaf7",
-      "size": 761306
+      "sha256": "b891761a5a360ac0dfe75a0dc510cc78a5f274049e4e5cc52770ad21c6c2b152",
+      "size": 762104
     },
     "device.zip": {
-      "sha256": "d71f66712661b5c490601e20c4ed5095eb6dfa9dac59fbf4b98d72a061cbe060",
-      "size": 953183
+      "sha256": "321749c262175659b5d3d57e93a5ea5585c72fde62289c716e1b88d42a4d8d0e",
+      "size": 954470
     },
     "project.zip": {
-      "sha256": "58b24671ae5ec921305dda0895b8ef188fd0fdcaf8eefca2b84e96c0d4fd7e30",
-      "size": 2616224
+      "sha256": "f783a51e84d2a7d22f13cf8b8c24db89f2eaa33a809a4660cf64c8328cad9f79",
+      "size": 2624402
     },
     "Battletoads.watchface.json": {
-      "sha256": "7a563f5cf8793705347d76392e5cb9abf5d853ab0c2deae66e7f9c05687d0a52",
-      "size": 3035373
+      "sha256": "36584a4bb3a4ce93013115f91c6de2bbf881dafdffd2c55642f738be1a17667a",
+      "size": 3042285
     },
     "Battletoads-watch.png": {
-      "sha256": "1c52dbeec4cfd210ff58f54f281745869e2edfa44887974f42ec4ea63d2150d8",
-      "size": 450383
+      "sha256": "4f91a5450ffa0535101e8ad81cd035fd235fe00783ee5c02e79a7f6d36568202",
+      "size": 452887
     },
     "Battletoads-watch-200.png": {
-      "sha256": "76826931d9f57b856ee6f14abf19e4a17bbdea32cb909c06a50e073b9f4a78a9",
-      "size": 40857
+      "sha256": "14682ae35440bf205c446f3ee28c065f8757319832aba6f1e9807e4340a15d52",
+      "size": 41302
     },
     "Battletoads-watch.gif": {
-      "sha256": "fc9d2b64a0570734bc2a4f38ed7f8dfa3213b776eea5a4174028bb6dab3ad379",
-      "size": 815632
+      "sha256": "434bc56d81601275a3fbc95167da1f1ab39b3c5937d4665d208e64944b2770c6",
+      "size": 823309
     },
     "Battletoads-watch-qr.png": {
-      "sha256": "6410048c9cd29804e155e45b8e7dc365de4c96e61dff7a99f17d5fd356dc4397",
-      "size": 1551741
+      "sha256": "07db71f8c4b06405541ab59bc106da43a7d79166d6a234b7241416a46b2f5b61",
+      "size": 1554540
     }
   }
 }
