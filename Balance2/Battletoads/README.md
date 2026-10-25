@@ -7,7 +7,7 @@
 ![Часы с циферблатом и QR-кодом для установки](Battletoads-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-25T16:23:33.398Z
+- **Опубликовано:** 2026-10-25T16:37:48.408Z
 - **Установочный пакет:** [Battletoads.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Battletoads/Battletoads.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Battletoads/Battletoads.zpk`
 
