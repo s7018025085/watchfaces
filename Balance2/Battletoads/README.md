@@ -2,10 +2,12 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
+![Анимация циферблата](Battletoads-watch.gif)
+
 ![Часы с циферблатом и QR-кодом для установки](Battletoads-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-25T15:46:30.020Z
+- **Опубликовано:** 2026-10-25T16:23:33.398Z
 - **Установочный пакет:** [Battletoads.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Battletoads/Battletoads.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Battletoads/Battletoads.zpk`
 
@@ -23,5 +25,6 @@
 - `Battletoads-watch.png` — мокап часов в полном качестве
 - `Battletoads-watch-200.png` — мокап часов высотой 200 px
 - `Battletoads-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `Battletoads-watch.gif` — анимированное превью циферблата (GIF)
 - `Battletoads.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
