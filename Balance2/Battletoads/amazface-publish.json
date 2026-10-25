@@ -5,19 +5,19 @@
   "name": "Battletoads",
   "slug": "Battletoads",
   "version": "1.0.0",
-  "publishedAt": "2026-10-25T15:11:12.258Z",
+  "publishedAt": "2026-10-25T15:46:30.020Z",
   "files": {
     "Battletoads.zpk": {
-      "sha256": "4bc88873cfadd1e5185c436cb59f7f210f3944fc1db9970a206f7233dcd71fd9",
-      "size": 941353
+      "sha256": "af87a4fb917b7c9f6d018a5c393b26ed1d6245ffcc9edab9360347314fc27c22",
+      "size": 941362
     },
     "device.zip": {
-      "sha256": "89528e4c8b4700eba1bd82ff1f292c03fd642a86d1e84c81bfeaa9307ca2a432",
-      "size": 1091733
+      "sha256": "922bf41b56192a9db897a3303b4d012c177c6b53a47494383f7f2426156f82ed",
+      "size": 1091732
     },
     "project.zip": {
-      "sha256": "ac538c409215a63406ee537ab0c13229fe0d195038fd7bb0f6fbb85d101e7dda",
-      "size": 3597693
+      "sha256": "09dc97a910252b665bc069d3c392a54ed109bb1ab1ac4a034d15fbedaa52312c",
+      "size": 3597689
     },
     "Battletoads.watchface.json": {
       "sha256": "8b34bb3d4bac3ddb2738695bbefe12ef00a4dcadde31a06d589a679ca18f608a",
