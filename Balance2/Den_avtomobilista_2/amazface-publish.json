@@ -1,0 +1,39 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3446174",
+  "name": "День автомобилиста 2",
+  "slug": "Den_avtomobilista_2",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-25T05:47:09.461Z",
+  "files": {
+    "Den_avtomobilista_2.zpk": {
+      "sha256": "3ee5a06df92b7c3829698ace466ecf2bdd3145357e482c35c8caf75d7a460417",
+      "size": 260984
+    },
+    "device.zip": {
+      "sha256": "b5977dfdd5f6cf66884eb5a0cf44fe9e78e2604a1860661e5dbf0a65032096f6",
+      "size": 260628
+    },
+    "project.zip": {
+      "sha256": "ed6dc13a363a25e447f652da5ee51c764afcae4f8b3d33b90fd01cc218ead7d9",
+      "size": 1463359
+    },
+    "Den_avtomobilista_2.watchface.json": {
+      "sha256": "00032ab9bac28431f3ff644c26f39688637d2450a6148890fc8e5ad784e69397",
+      "size": 3121598
+    },
+    "Den_avtomobilista_2-watch.png": {
+      "sha256": "e02d32e429e0992cc05ba6a9edcce0a29dff987c8a619d2e0636dabeddb6f18f",
+      "size": 804549
+    },
+    "Den_avtomobilista_2-watch-200.png": {
+      "sha256": "448425058e20a53b790de805c917eafc6498d75fb46f83cf33d0b0bf63357fbf",
+      "size": 52326
+    },
+    "Den_avtomobilista_2-watch-qr.png": {
+      "sha256": "2465d1b0891223fedaa86f576ddc99ae5edc7ff5c63c2070a15eda542cd11ec2",
+      "size": 1792870
+    }
+  }
+}
