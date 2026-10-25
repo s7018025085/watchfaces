@@ -68,7 +68,7 @@
         "asset_567",
         "asset_694"
       ],
-      "fps": 12,
+      "fps": 15,
       "loop": true,
       "repeat": 1
     }
@@ -758,7 +758,7 @@
             "asset_567",
             "asset_694"
           ],
-          "fps": 12,
+          "fps": 15,
           "loop": true,
           "repeat": 1
         }
