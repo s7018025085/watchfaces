@@ -5,23 +5,23 @@
   "name": "День автомобилиста",
   "slug": "Den_avtomobilista",
   "version": "1.0.0",
-  "publishedAt": "2026-10-25T05:55:03.987Z",
+  "publishedAt": "2026-10-25T05:57:07.972Z",
   "files": {
     "Den_avtomobilista.zpk": {
-      "sha256": "f8380f1c0e23d512aeb1ab30f0b225276e767645009db3504db7dc4ca4f11aa2",
-      "size": 298859
+      "sha256": "35db25cc1afb6411fd1ce8f21b594760ab06686c8c063b505ea72e4011614215",
+      "size": 298562
     },
     "device.zip": {
-      "sha256": "2eb76e8cc38d4c6131ca551c4139bd785f182606fb9628cf77c164c964a946d7",
-      "size": 298501
+      "sha256": "1d1b825ddec2c11bf818bd50014e3f06f724668a437d6b89cff6ccb6a7fd0cf3",
+      "size": 298206
     },
     "project.zip": {
-      "sha256": "99accd569ad1b62e13ec2023d1d84e2c6b8568431f30c5d950c462f7029b1686",
-      "size": 1757104
+      "sha256": "cb5523be7752ed399f4c490e47ddbe9847284de4e3b8ba4da6dc2a540d11eca9",
+      "size": 1754531
     },
     "Den_avtomobilista.watchface.json": {
-      "sha256": "2df8f2c0507a56987f114b02da268e568f364203ec47c8f9816ee31e439d5eca",
-      "size": 3732889
+      "sha256": "b4097a0db239e5eeddd32ae6cf85259a2d0cfe697fff09bba601f4e30bbfcb68",
+      "size": 3732891
     },
     "Den_avtomobilista-watch.png": {
       "sha256": "b8159388e5472612109e45e8a0f128df08da4e583c4ecb9c9ce773344ef3201f",
