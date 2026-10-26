@@ -1,0 +1,39 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "9315377",
+  "name": "Retro_Girls",
+  "slug": "Retro_Girls",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-26T15:05:53.085Z",
+  "files": {
+    "Retro_Girls.zpk": {
+      "sha256": "2dce94e83f339393ff46bccb748f13f4f57356def03baf512434cbd776c2a436",
+      "size": 1089708
+    },
+    "device.zip": {
+      "sha256": "b0ef06d256a5b2edf0386544fa349bdb32e3b10cde5c1a2e31e5d2421bf02bc8",
+      "size": 1092975
+    },
+    "project.zip": {
+      "sha256": "2280b813a5394ac5ddf65bd397801d5b6e0f972337d3e80d81b83f5b24b4535a",
+      "size": 3964741
+    },
+    "Retro_Girls.watchface.json": {
+      "sha256": "8afe9470792847e2f385428d856f6d48a6829cd848844985c73a8b767577df10",
+      "size": 4035484
+    },
+    "Retro_Girls-watch.png": {
+      "sha256": "4bc62543477541ce825be2e8705230065fe34c969543e8155ecb6b1c19fbeaa9",
+      "size": 856557
+    },
+    "Retro_Girls-watch-200.png": {
+      "sha256": "783e58e935d707211134c11f64645403e688a437e61cc0d4ef78e76e9cd462be",
+      "size": 51511
+    },
+    "Retro_Girls-watch-qr.png": {
+      "sha256": "9ceb43ed4d94b9c278a7b84b5156f177bb9c1f9f11a66efee911dca717a30b82",
+      "size": 1822867
+    }
+  }
+}
