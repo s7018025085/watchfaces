@@ -5,35 +5,35 @@
   "name": "D355M",
   "slug": "D355M",
   "version": "1.0.0",
-  "publishedAt": "2026-10-27T16:09:59.309Z",
+  "publishedAt": "2026-10-27T16:14:42.079Z",
   "files": {
     "D355M.zpk": {
-      "sha256": "0dd645ceaca7fc83c22972da13dbe3bf6e06425b06d4d6768f12630f89bdb111",
-      "size": 258666
+      "sha256": "b7ab14f672996308c438611ed96ee21064a4f31d1a0145a3d1665a69ff0de9b7",
+      "size": 259246
     },
     "device.zip": {
-      "sha256": "13a780d990c2267beabc2888331914159a2ed1342de14b42cda28748d091f7e4",
-      "size": 274904
+      "sha256": "ea42047eb267d303d5de9d4f99ac55a040dce70ee5304f22bc1009b3a5a9e2fa",
+      "size": 275477
     },
     "project.zip": {
-      "sha256": "890d995f83a8c7ac715c6294bb6accc0f4bfab2eecda94fb595ba56604fdab46",
-      "size": 1457244
+      "sha256": "ca8cce86fd550b5ca5926e0d47a7312ea32504d64e19a56b181f97c08708c204",
+      "size": 1454704
     },
     "D355M.watchface.json": {
-      "sha256": "00cb3238bf007c130c1e061020bfd49384be6acb5f5bfa63f3ed81d30f50cf20",
-      "size": 2836978
+      "sha256": "9fd3078b805134fabbf5349618b5a94b7e63b199be213874bbb402108b49dce3",
+      "size": 2833966
     },
     "D355M-watch.png": {
-      "sha256": "e804d8c643b2c7ff78c001da8c4822d7583074d9c1f7946397c402701d51fac0",
-      "size": 768408
+      "sha256": "14f934c8a219a57169aaf453f4ced63935c3bb436ac261d53c73820b37b1234b",
+      "size": 763835
     },
     "D355M-watch-200.png": {
-      "sha256": "3ee00ac01cec5fa7529b08516064c3354cbbf4b9f181e7b390dc4f95e6a07065",
-      "size": 54209
+      "sha256": "9e4bdcecb9fce51b5768fbe3c97e6561d6c8a9a6381b773fd8bfc30043843773",
+      "size": 54016
     },
     "D355M-watch-qr.png": {
-      "sha256": "3c3804f5918e648ba225b074f0352522fb493fa863f96447e24f9f105f3a385d",
-      "size": 1779025
+      "sha256": "e8748673c519100b41973ea523cb9a9fa91aff8744db0946a719b28224604555",
+      "size": 1775234
     }
   }
 }
