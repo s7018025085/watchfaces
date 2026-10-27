@@ -1,0 +1,39 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4069837",
+  "name": "D355M2",
+  "slug": "D355M2",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-27T18:57:50.112Z",
+  "files": {
+    "D355M2.zpk": {
+      "sha256": "2c071d9212e6e89a5ca78013c854caefe012175c0dad77afa374e2bad81e78b6",
+      "size": 260055
+    },
+    "device.zip": {
+      "sha256": "0cf27ed73a90159ea6654a667622287ab23a54fb20d6f789994ffe542097c0d7",
+      "size": 278094
+    },
+    "project.zip": {
+      "sha256": "ca263915918b132b2652f36603e74c63ff9df77c600b6bdd016c9577cebb6a2d",
+      "size": 1450434
+    },
+    "D355M2.watchface.json": {
+      "sha256": "30f23209b071d7a540f615df5caaa79d8edf88d86b9576eae2aef77f7359edb6",
+      "size": 2833766
+    },
+    "D355M2-watch.png": {
+      "sha256": "694a6101a64e477bceabbb8e25077779376a41b42b2d5bd8c755ce8062bf5f07",
+      "size": 762752
+    },
+    "D355M2-watch-200.png": {
+      "sha256": "9c054601991080a413c525420fc3d2aed51183dc14e61574317bd3c877fce0f4",
+      "size": 54473
+    },
+    "D355M2-watch-qr.png": {
+      "sha256": "e77e973fe9da3ed64424543f7d266d7919ee60d7f0ca4dd806041fd381c404cd",
+      "size": 1776694
+    }
+  }
+}
