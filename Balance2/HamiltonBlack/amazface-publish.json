@@ -5,23 +5,35 @@
   "name": "HamiltonBlack",
   "slug": "HamiltonBlack",
   "version": "1.1.1",
-  "publishedAt": "2026-10-23T07:49:46.295Z",
+  "publishedAt": "2026-10-28T08:12:39.253Z",
   "files": {
     "HamiltonBlack.zpk": {
-      "sha256": "0b9fda46a1823f8b3e1f74600bd2fcd2eabb89eb7ed885a9cbc926b84259acc7",
-      "size": 1310192
+      "sha256": "d26095bf1cabec7744971a7cf665050e896d7a5232c9e8af9c93c437c1678d1a",
+      "size": 1310257
     },
     "device.zip": {
-      "sha256": "3c1fe9e023b86be8fa4fee2a1b50c3104d903d1a424026f8c0df3e6e4cb45fb9",
-      "size": 1324863
+      "sha256": "2bfded83fbaaa6c9c47467f46162309633c854df565dec81b0858cf22400880a",
+      "size": 1324950
     },
     "project.zip": {
-      "sha256": "6313f3028eff50eb344da81b38fead8fd685af5d0e864619313655d83e487677",
-      "size": 2920226
+      "sha256": "4c719b1e0c895e4df682f27d1c85624a9050de1db28ff700ad91730948446cc6",
+      "size": 2924511
     },
     "HamiltonBlack.watchface.json": {
-      "sha256": "83ffffd099419de4e44b1022d3fbe68e5ceabc318f86ec7d83360bf9a76dd7b9",
-      "size": 2442348
+      "sha256": "3dc67803fd2acd6bb8d35d4eccd7d16ec624662a2f267a775ca0762f459961ce",
+      "size": 2442232
+    },
+    "HamiltonBlack-watch.png": {
+      "sha256": "7f38055b9b675125fa7308802b44bfe7671582998e512bdba2535e100adeef1a",
+      "size": 917325
+    },
+    "HamiltonBlack-watch-200.png": {
+      "sha256": "4d0edcfb682ce10492410fb739adc46679b9e3500cca3b9befe2c24f25f07996",
+      "size": 57936
+    },
+    "HamiltonBlack-watch-qr.png": {
+      "sha256": "cb18dd61cf14577f3a3a7c7f06a2a0ef902ad013a49da12bee3012912f2bb516",
+      "size": 1908718
     }
   }
 }
