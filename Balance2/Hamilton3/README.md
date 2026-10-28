@@ -2,8 +2,10 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
+![Часы с циферблатом и QR-кодом для установки](Hamilton3-watch-qr.png)
+
 - **Версия:** 1.1.1
-- **Опубликовано:** 2026-10-22T06:20:18.061Z
+- **Опубликовано:** 2026-10-28T08:03:12.419Z
 - **Установочный пакет:** [Hamilton3.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Hamilton3/Hamilton3.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Hamilton3/Hamilton3.zpk`
 
@@ -18,5 +20,8 @@
 - `Hamilton3.zpk` — установочный пакет
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
+- `Hamilton3-watch.png` — мокап часов в полном качестве
+- `Hamilton3-watch-200.png` — мокап часов высотой 200 px
+- `Hamilton3-watch-qr.png` — мокап часов с циферблатом и QR-кодом
 - `Hamilton3.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
