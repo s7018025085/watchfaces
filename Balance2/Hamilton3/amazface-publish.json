@@ -5,23 +5,35 @@
   "name": "Hamilton3",
   "slug": "Hamilton3",
   "version": "1.1.1",
-  "publishedAt": "2026-10-22T06:20:18.061Z",
+  "publishedAt": "2026-10-28T08:03:12.419Z",
   "files": {
     "Hamilton3.zpk": {
-      "sha256": "b5034c850f7c88613ff141c2eafa7e976478ab6ca793a7df8db7c829126ec960",
-      "size": 1321209
+      "sha256": "389b9820e31f50c748ad762a3ee9c6ace6841a67e0aecacb3aab4b7b7b24bab8",
+      "size": 1319259
     },
     "device.zip": {
-      "sha256": "430df10bb9d0d9acaa0111af818d9803a1f79ab2d04f032c4d744e369debed8d",
-      "size": 1335878
+      "sha256": "01dcba8d0079d15516a57dcede3b8dcadce0a5aa832676f1fc5d6d149e990c74",
+      "size": 1333948
     },
     "project.zip": {
-      "sha256": "6e2c48d07875032cb0810d943a4bc7ba4d208bdd36e7a68cc04e8cfe7b590fc6",
-      "size": 3065410
+      "sha256": "d6857b05cbbe7a24a825cae52ebb806428797c5ad5ca7b8d17591bf0e29a35dc",
+      "size": 3071258
     },
     "Hamilton3.watchface.json": {
-      "sha256": "e73a861ed8fa04bcd0ac584220c95d0fab649d4e787e6ce0961086106992c3dc",
-      "size": 2462922
+      "sha256": "b80ac38bf65ad7a53b0efdcca7d5269503d77c8277dbe961d1aedec22dc23925",
+      "size": 2462950
+    },
+    "Hamilton3-watch.png": {
+      "sha256": "5d54c24c55e720a21ea46c405e187d1f95a1f79170cc69062de437a30a38eb0d",
+      "size": 975370
+    },
+    "Hamilton3-watch-200.png": {
+      "sha256": "392a13c4816580ab3709cbdb91f235a986b317c81e75ae3816eb9e038f094d4a",
+      "size": 58900
+    },
+    "Hamilton3-watch-qr.png": {
+      "sha256": "2a9cf3aff454810a2ad9f6fbbe986d851a1163aa75dcb92cf07f89ddf00fceb4",
+      "size": 2084682
     }
   }
 }
