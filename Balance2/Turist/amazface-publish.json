@@ -5,35 +5,35 @@
   "name": "Турист",
   "slug": "Turist",
   "version": "1.0.0",
-  "publishedAt": "2026-10-29T12:55:41.648Z",
+  "publishedAt": "2026-10-29T13:10:03.403Z",
   "files": {
     "Turist.zpk": {
-      "sha256": "85fdf394a7323d403eae8fd85b1c2bb0a0ce4a0ba671f002be0012180440b163",
-      "size": 1843402
+      "sha256": "97a861638ce89a83d5487f84a738a152ffdaa8b152b7025825898a55d6836540",
+      "size": 1836806
     },
     "device.zip": {
-      "sha256": "cfeb5610d35f2ebe51e7cc3b2237e2cac31f0c10bad9bd41da9cde4d3dab4681",
-      "size": 1850374
+      "sha256": "42f674f03d2da014ffef562fa31879ac371a57c75d4b0049a784f5c1d2447ca2",
+      "size": 1843753
     },
     "project.zip": {
-      "sha256": "18ee6e948e071339f425739dade3ebef1b20ca1be19182aa8c8ddf0d486f2106",
-      "size": 4887583
+      "sha256": "42d0dc6f06a13ce309a1ed84b3688e64a713e8b4f5f8f04b9dd32998f1e3a63e",
+      "size": 4874207
     },
     "Turist.watchface.json": {
-      "sha256": "758e4ce5b57c8e488d0b0ed339884e56d6daae79bedc4177d89b372d41f6547d",
-      "size": 10020737
+      "sha256": "ce49d52d067c05b81016c14565a1fb4ec5184ab9bff31b296bd8ade48f13ed98",
+      "size": 10019801
     },
     "Turist-watch.png": {
-      "sha256": "39cb536b1e9cb1217526265543230f8b18beac6351cb225c97046b5d2cbdf6b3",
-      "size": 985398
+      "sha256": "b4b5f8e13650a4ba4ec5e51e4f2c4693a7193dd8fb0f80cbd06e38b1b8e3852f",
+      "size": 983443
     },
     "Turist-watch-200.png": {
-      "sha256": "10d6f0bdd36486338c3e992207437077f5cb2bb35a602be15f4ca9333fe60143",
-      "size": 58670
+      "sha256": "d1fc981ddb9832d8d2c22febd86eabd6b6c8850c84acb855a4e5a0bc6ac61e59",
+      "size": 58582
     },
     "Turist-watch-qr.png": {
-      "sha256": "7a74b46c99e76ccada25aead605f979db0d012bea2a450a0282f87dbf36ed71d",
-      "size": 1975604
+      "sha256": "8057d0419b6a2b44f29a36c8f84e607f89516cbf6c83216e1dbcb36773059958",
+      "size": 1973151
     }
   }
 }
