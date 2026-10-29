@@ -1,0 +1,39 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "7784563",
+  "name": "Турист",
+  "slug": "Turist",
+  "version": "1.0.0",
+  "publishedAt": "2026-10-29T12:55:41.648Z",
+  "files": {
+    "Turist.zpk": {
+      "sha256": "85fdf394a7323d403eae8fd85b1c2bb0a0ce4a0ba671f002be0012180440b163",
+      "size": 1843402
+    },
+    "device.zip": {
+      "sha256": "cfeb5610d35f2ebe51e7cc3b2237e2cac31f0c10bad9bd41da9cde4d3dab4681",
+      "size": 1850374
+    },
+    "project.zip": {
+      "sha256": "18ee6e948e071339f425739dade3ebef1b20ca1be19182aa8c8ddf0d486f2106",
+      "size": 4887583
+    },
+    "Turist.watchface.json": {
+      "sha256": "758e4ce5b57c8e488d0b0ed339884e56d6daae79bedc4177d89b372d41f6547d",
+      "size": 10020737
+    },
+    "Turist-watch.png": {
+      "sha256": "39cb536b1e9cb1217526265543230f8b18beac6351cb225c97046b5d2cbdf6b3",
+      "size": 985398
+    },
+    "Turist-watch-200.png": {
+      "sha256": "10d6f0bdd36486338c3e992207437077f5cb2bb35a602be15f4ca9333fe60143",
+      "size": 58670
+    },
+    "Turist-watch-qr.png": {
+      "sha256": "7a74b46c99e76ccada25aead605f979db0d012bea2a450a0282f87dbf36ed71d",
+      "size": 1975604
+    }
+  }
+}
