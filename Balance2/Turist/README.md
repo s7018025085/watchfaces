@@ -5,7 +5,7 @@
 ![Часы с циферблатом и QR-кодом для установки](Turist-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-29T12:55:41.648Z
+- **Опубликовано:** 2026-10-29T13:10:03.403Z
 - **Установочный пакет:** [Turist.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Turist/Turist.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Turist/Turist.zpk`
 
