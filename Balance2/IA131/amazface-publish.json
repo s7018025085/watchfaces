@@ -5,35 +5,35 @@
   "name": "IA131",
   "slug": "IA131",
   "version": "1.0.0",
-  "publishedAt": "2026-10-30T13:41:49.253Z",
+  "publishedAt": "2026-10-30T16:35:06.880Z",
   "files": {
     "IA131.zpk": {
-      "sha256": "618d9aaf0a081190f32c76ccbd2a346b58a539b29dbcb34e9b1172142237ac09",
-      "size": 729695
+      "sha256": "ad18a925c91d495959dae69447e88f27981a4d43e222a4b41a158aa7315b1cc9",
+      "size": 995738
     },
     "device.zip": {
-      "sha256": "3544135ad71b16927cb307f12f3f2900e00a8183e2f0c1a7eb6e6bd07f0e1cb6",
-      "size": 733293
+      "sha256": "00cdb6a55a016ab4857813504c20f7180203d9097f69d5ee25742a2729811f31",
+      "size": 995388
     },
     "project.zip": {
-      "sha256": "f13a1476319f6fa49a3941de88fe004a774b20b9ab7f80bec59db0d763c70024",
-      "size": 1638831
+      "sha256": "89d72f7bd1fb9f4d4cf560b2ec243c0a6f7bd295514c37d6f3d02fb63af7db0f",
+      "size": 2909233
     },
     "IA131.watchface.json": {
-      "sha256": "492d9347b63ae2028ac520d80e39a676cddde38af3a334208cbc1bb74d881961",
-      "size": 2114675
+      "sha256": "10b5fe1b832bfa63c830a0e34dde91cecef9c199bf689027aa4393d6374f5cec",
+      "size": 4496603
     },
     "IA131-watch.png": {
-      "sha256": "b0939806f15592a95ab39d832979317661632a2575bbf003e7f5ad04c78019b4",
-      "size": 288906
+      "sha256": "68d6c1c8d617c2f30b4e8878f1790bf169fe436cddc14f9a845dba5062247f9b",
+      "size": 723011
     },
     "IA131-watch-200.png": {
-      "sha256": "7a76d71bb282bb5e17fd860a7d312d8f054257170a068b541149078bb8af14b7",
-      "size": 24504
+      "sha256": "749868eed86250826a9d8eb2bd9d525a9af67b46392a4f2043a28c3efa4df0a9",
+      "size": 49143
     },
     "IA131-watch-qr.png": {
-      "sha256": "43dfc0d15eeeefec986ca2c5c54edc344627e768d9dad52c40cf42e612caaa0e",
-      "size": 1236000
+      "sha256": "bc9688e95bb0399e79dfb2ffef7d0973ef576cb0df49e224155789a5815faf93",
+      "size": 1594919
     }
   }
 }
