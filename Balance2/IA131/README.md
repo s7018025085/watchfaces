@@ -5,7 +5,7 @@
 ![Часы с циферблатом и QR-кодом для установки](IA131-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-30T18:23:36.729Z
+- **Опубликовано:** 2026-10-30T18:28:10.588Z
 - **Установочный пакет:** [IA131.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/IA131/IA131.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/IA131/IA131.zpk`
 
