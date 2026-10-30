@@ -5,35 +5,35 @@
   "name": "KZY160",
   "slug": "KZY160",
   "version": "1.0.0",
-  "publishedAt": "2026-10-30T07:23:53.677Z",
+  "publishedAt": "2026-10-30T07:40:43.398Z",
   "files": {
     "KZY160.zpk": {
-      "sha256": "49e801ae2b27a2eb1520f30b70df33397437396e1d1f92ddf55cdad68a3e195b",
-      "size": 300029
+      "sha256": "ddb31b0ce361e01509ea46a2331860aa598c9b2af12faeda697c597d0b9fbf5b",
+      "size": 300410
     },
     "device.zip": {
-      "sha256": "5557dc4524a693eacc0c2680edd59b9cc026a1855ea0cfc2044aca70e83543a0",
-      "size": 300049
+      "sha256": "9722f99eabdded4204a9a4d6444338a04af54c404bdad8ec3004a2639d692a78",
+      "size": 300432
     },
     "project.zip": {
-      "sha256": "65300b48e585e1560935a7ec6def769930a0e546489bb8ae8b98849ba4d58f64",
-      "size": 1317449
+      "sha256": "facf26f87fee0ca56010df3b288308b842da4cd16b393799803533a4fcb30806",
+      "size": 1319549
     },
     "KZY160.watchface.json": {
-      "sha256": "792eaaea9ac090eb360d6f88e6574e10b40387c3b66405dd78c89f24787ff4db",
-      "size": 1604964
+      "sha256": "769873fd673dc81ff0c91808d2686b757b6ef6414dbaa37b9339abd17ba32f80",
+      "size": 1605276
     },
     "KZY160-watch.png": {
-      "sha256": "9d39c234d99ad25f5bd188598edad91795efb9be3337f75485432dee9d15cd58",
-      "size": 724002
+      "sha256": "37030a6802b755e55a8e9745b0658c06563d54d758f589d034ae56865b3400e9",
+      "size": 722226
     },
     "KZY160-watch-200.png": {
-      "sha256": "e2d1beaa305dd7a6d535297c5478c255bee864fc12f3898cd5b8eb6f8d870093",
-      "size": 50142
+      "sha256": "e471ff5c38022cc003ba2f49377e68fb34cdb54c3b608d5e0010df6a9bdaf94f",
+      "size": 50103
     },
     "KZY160-watch-qr.png": {
-      "sha256": "05a397b651f2cbc65982d5a10c4d8cd242f20ca998b1ea16cba2acd2822ed852",
-      "size": 1704342
+      "sha256": "5d0acd0b146991c5f896d068ecb7f8ec5aaf8a017b35aa4fafe8cae21d1a2b4f",
+      "size": 1701499
     }
   }
 }
