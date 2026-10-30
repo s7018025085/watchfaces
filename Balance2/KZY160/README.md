@@ -5,7 +5,7 @@
 ![Часы с циферблатом и QR-кодом для установки](KZY160-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-30T10:17:20.622Z
+- **Опубликовано:** 2026-10-30T10:23:28.888Z
 - **Установочный пакет:** [KZY160.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/KZY160/KZY160.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/KZY160/KZY160.zpk`
 
