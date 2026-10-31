@@ -5,7 +5,7 @@
 ![Часы с циферблатом и QR-кодом для установки](D355M-watch-qr.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-31T17:38:15.991Z
+- **Опубликовано:** 2026-10-31T17:46:42.671Z
 - **Установочный пакет:** [D355M.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/D355M/D355M.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/D355M/D355M.zpk`
 
