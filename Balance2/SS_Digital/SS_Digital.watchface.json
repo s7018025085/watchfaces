@@ -1517,7 +1517,7 @@
             "arc_enabled": false,
             "arc_radius": 150,
             "arc_bottom": false,
-            "color": "#67410e",
+            "color": "#b0701c",
             "align_h": "CENTER_H",
             "align_v": "CENTER_V",
             "text_style": "NONE",
@@ -1774,7 +1774,26 @@
             "tap_metric": "STATUS",
             "tap_app_id": 0,
             "tap_app_url": "pages/index"
-          }
+          },
+          "tapZones": [
+            {
+              "id": "tap_001",
+              "name": "Тап-зона 1",
+              "x": 20,
+              "y": 50,
+              "w": 140,
+              "h": 80,
+              "visible": true,
+              "locked": false,
+              "props": {
+                "tap_action": "FLASHLIGHT",
+                "tap_metric": "STATUS",
+                "tap_app_id": 0,
+                "tap_app_url": "pages/index",
+                "tap_flash_bright": true
+              }
+            }
+          ]
         },
         {
           "id": "text_008",
@@ -1808,7 +1827,26 @@
             "tap_app_id": 0,
             "tap_app_url": "pages/index",
             "suffix": ""
-          }
+          },
+          "tapZones": [
+            {
+              "id": "tap_001",
+              "name": "Тап-зона 1",
+              "x": -60,
+              "y": -20,
+              "w": 90,
+              "h": 90,
+              "visible": true,
+              "locked": false,
+              "props": {
+                "tap_action": "SETTINGS",
+                "tap_metric": "STATUS",
+                "tap_app_id": 0,
+                "tap_app_url": "pages/index",
+                "tap_flash_bright": true
+              }
+            }
+          ]
         },
         {
           "id": "text_009",
@@ -1958,7 +1996,7 @@
           "locked": false,
           "props": {
             "src": "rain_snow",
-            "alpha": 45,
+            "alpha": 30,
             "tap_action": "NONE",
             "tap_metric": "STATUS",
             "tap_app_id": 0,
