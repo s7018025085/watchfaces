@@ -5,43 +5,43 @@
   "name": "СС Digital",
   "slug": "SS_Digital",
   "version": "1.0.0",
-  "publishedAt": "2026-11-05T18:08:23.245Z",
+  "publishedAt": "2026-11-05T18:35:51.693Z",
   "files": {
     "SS_Digital.zpk": {
-      "sha256": "de7a4cc8933cef040589cd0d7da9e4c35fbf656732fbe85e8a96531b2202f0e7",
-      "size": 1415203
+      "sha256": "877ebdcb6f3587e56cd298782f5424fe3f89b48eb771574ec2dd2d7cc9513479",
+      "size": 1413673
     },
     "device.zip": {
-      "sha256": "592d91eead388233a271ebb0bedb9dd3aa5f9a756339e6dbe23878c5500395a3",
-      "size": 1418221
+      "sha256": "ecacf9902ac6da2da42a223c78ec1ecd01d0043253e91c9c32c0db3ade3f855d",
+      "size": 1416726
     },
     "project.zip": {
-      "sha256": "74769f33a221d28702f4827efd2f981a99eeead90fb2aef8001e86477763954a",
-      "size": 1783447
+      "sha256": "30326f6013f71e61ad919f34c55b1926f236210150017fbbc5563dfc5260ff76",
+      "size": 1782764
     },
     "SS_Digital.watchface.json": {
-      "sha256": "909eb1f79e62dce98fda561336c3c8ce3a1522e43d34f25e940cf5593f1d3d2a",
-      "size": 1167063
+      "sha256": "8f5b23eb03eebeb2c3e23dec991885d836b8643269ed2b40a4351f824adcc821",
+      "size": 1167135
     },
     "SS_Digital-watch.png": {
-      "sha256": "69f6574465310a6f1fdd86ca7d05016ddd59987e7190238953a7d738ec583e50",
-      "size": 703036
+      "sha256": "01bf76ab5ec6f2ccdea1aaa8a860628ca66bf311bad3cc90da741da2ad1afb73",
+      "size": 703361
     },
     "SS_Digital-watch-200.png": {
-      "sha256": "f9527e145b81ff260c710d663365242a0d7686ad54bccd697380517bd8acef1e",
-      "size": 48791
+      "sha256": "75ff40d8bea217894a4831c6ef41fc8bf8d9608c5417cf25047e1f455e6c7eb5",
+      "size": 48787
     },
     "SS_Digital-night.png": {
-      "sha256": "e4812841f74767879f793fe4867e8472ab531c0dba00ce5bcccb88961c64f513",
-      "size": 605252
+      "sha256": "24bfb45b6847a9567b62499ecb8fcb8eaf65998972fdd547e0b7025a7f2d9c08",
+      "size": 607088
     },
     "SS_Digital-aod.png": {
       "sha256": "6341a80a3e2d1db62c40c24b42c8257506be7dafe0270af9ba79b586199f2668",
       "size": 308262
     },
     "SS_Digital-watch-qr.png": {
-      "sha256": "b19d6e6275a1bb5b61ebb54baf1c59dd053df5011777696e139bc1b3ae8f31ed",
-      "size": 1587137
+      "sha256": "f9c8688b8918f36ef29dd998efca748c6c4260f36cff32650928e0cdc4d76a67",
+      "size": 1587440
     }
   }
 }
