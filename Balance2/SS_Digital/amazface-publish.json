@@ -5,23 +5,23 @@
   "name": "СС Digital",
   "slug": "SS_Digital",
   "version": "1.0.0",
-  "publishedAt": "2026-11-05T17:59:18.136Z",
+  "publishedAt": "2026-11-05T18:08:23.245Z",
   "files": {
     "SS_Digital.zpk": {
-      "sha256": "aba75dce293552f06e41a58e5e99bcdcbbfd8f732593b540f3fa4b5f46e0b093",
-      "size": 1415043
+      "sha256": "de7a4cc8933cef040589cd0d7da9e4c35fbf656732fbe85e8a96531b2202f0e7",
+      "size": 1415203
     },
     "device.zip": {
-      "sha256": "7b08fe888786ead365d7baa9c666469058553c8f77df33daf28251f77f530b4c",
-      "size": 1418043
+      "sha256": "592d91eead388233a271ebb0bedb9dd3aa5f9a756339e6dbe23878c5500395a3",
+      "size": 1418221
     },
     "project.zip": {
-      "sha256": "fa33701e081730bd34e23a047d2ac98b6e5b763dd2d2f2ee27a3f8b965cdc738",
-      "size": 1779693
+      "sha256": "74769f33a221d28702f4827efd2f981a99eeead90fb2aef8001e86477763954a",
+      "size": 1783447
     },
     "SS_Digital.watchface.json": {
-      "sha256": "9d88a564b848ba4d41d67829d7690615979040d6662b7cfbffb4fe90c29608d5",
-      "size": 1165986
+      "sha256": "909eb1f79e62dce98fda561336c3c8ce3a1522e43d34f25e940cf5593f1d3d2a",
+      "size": 1167063
     },
     "SS_Digital-watch.png": {
       "sha256": "69f6574465310a6f1fdd86ca7d05016ddd59987e7190238953a7d738ec583e50",
@@ -32,8 +32,8 @@
       "size": 48791
     },
     "SS_Digital-night.png": {
-      "sha256": "e9c2863b2034f2291913c6527904dbefce9d86ce09fe1dab38fa10f50658c977",
-      "size": 604930
+      "sha256": "e4812841f74767879f793fe4867e8472ab531c0dba00ce5bcccb88961c64f513",
+      "size": 605252
     },
     "SS_Digital-aod.png": {
       "sha256": "6341a80a3e2d1db62c40c24b42c8257506be7dafe0270af9ba79b586199f2668",
