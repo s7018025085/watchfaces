@@ -239,7 +239,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 40,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -323,7 +323,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 30,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -491,7 +491,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 40,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -575,7 +575,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 30,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -659,12 +659,30 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 30,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
       },
-      "tapZones": []
+      "tapZones": [
+        {
+          "id": "tap_001",
+          "name": "Тап-зона 1",
+          "x": 0,
+          "y": 0,
+          "w": 120,
+          "h": 90,
+          "visible": true,
+          "locked": false,
+          "props": {
+            "tap_action": "SETTINGS",
+            "tap_metric": "STATUS",
+            "tap_app_id": 0,
+            "tap_app_url": "pages/index",
+            "tap_flash_bright": true
+          }
+        }
+      ]
     },
     {
       "visible": true,
@@ -743,7 +761,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 40,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -911,7 +929,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 30,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -995,7 +1013,7 @@
           "on_wake": false,
           "on_change": false
         },
-        "text_alpha": 52,
+        "text_alpha": 40,
         "text_blend": 0,
         "text_blend_color": "#f7f7f7",
         "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -1463,7 +1481,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 40,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -1547,7 +1565,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 30,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -1715,7 +1733,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 40,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -1799,7 +1817,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 30,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -1883,12 +1901,30 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 30,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
           },
-          "tapZones": []
+          "tapZones": [
+            {
+              "id": "tap_001",
+              "name": "Тап-зона 1",
+              "x": 0,
+              "y": 0,
+              "w": 120,
+              "h": 90,
+              "visible": true,
+              "locked": false,
+              "props": {
+                "tap_action": "SETTINGS",
+                "tap_metric": "STATUS",
+                "tap_app_id": 0,
+                "tap_app_url": "pages/index",
+                "tap_flash_bright": true
+              }
+            }
+          ]
         },
         {
           "visible": true,
@@ -1967,7 +2003,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 40,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -2135,7 +2171,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 30,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
@@ -2219,7 +2255,7 @@
               "on_wake": false,
               "on_change": false
             },
-            "text_alpha": 52,
+            "text_alpha": 40,
             "text_blend": 0,
             "text_blend_color": "#f7f7f7",
             "font": "font_454d56e292cd4511907e9356a2f04e3b"
