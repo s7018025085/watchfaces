@@ -5,43 +5,43 @@
   "name": "СС Digital davlenie",
   "slug": "SS_Digital_davlenie",
   "version": "1.0.0",
-  "publishedAt": "2026-11-06T07:13:15.379Z",
+  "publishedAt": "2026-11-06T07:16:39.256Z",
   "files": {
     "SS_Digital_davlenie.zpk": {
-      "sha256": "8d1423a0cbf4165420fa1e1fe8f685895f3a8722c7cd296d3e467f1a406da272",
-      "size": 1415728
+      "sha256": "6130d8f3459f257bcdc58eb46cef10d3838bc546484b611e9bb2cfa55edbb208",
+      "size": 1414308
     },
     "device.zip": {
-      "sha256": "d627ddff532f7c40dc279bb7319eac77230296b0f65bed6cc74fedd3dd92d66a",
-      "size": 1418806
+      "sha256": "c6dad186dbbc72e58b8e8235875d55a5dd70f5c82c733b894d71c1591f2ed2e4",
+      "size": 1417382
     },
     "project.zip": {
-      "sha256": "f0b1c3b8499afe5562a6abe62982df76f2b1eff98242530960fcadf9ce740763",
-      "size": 1783084
+      "sha256": "17eca590f8f485c9b1da3610b78bcf49ae13ff55ba670686ddfcf8c20578b18d",
+      "size": 1783096
     },
     "SS_Digital_davlenie.watchface.json": {
-      "sha256": "f103aa9d7554d473318c2b013de688329b76291986f75fe2d2d1e76936322938",
-      "size": 1169318
+      "sha256": "b4f634a5144974da2f481599a1a6604f451fe0b40bd58fc8324b7a6d24dc58c7",
+      "size": 1169302
     },
     "SS_Digital_davlenie-watch.png": {
-      "sha256": "70457f942002cac0cbaa3f34a9148dd80da58b32fe9d967b5b11e8bda2e708b5",
-      "size": 704094
+      "sha256": "c02e180f8524932008edae352ef0a5d6798743ce73697437cc1cb257b4c050d3",
+      "size": 703851
     },
     "SS_Digital_davlenie-watch-200.png": {
-      "sha256": "ea331d92ffe4863e70bea5d809531ae7316bb0719fd5281962b6441fabd67e27",
-      "size": 49006
+      "sha256": "d7d4d53408d25ac765b4a71b120d8fda257b38aed0d9456b65be84ac985a33ac",
+      "size": 48971
     },
     "SS_Digital_davlenie-night.png": {
-      "sha256": "1d1fbfd2b2b2eedd5a7e17d3d26bfd37e67f118002260f9c6cb261bd15800ac7",
-      "size": 604103
+      "sha256": "2e12444ebc78ff4be07c5b948e25de8ea1beeab64417e755455e870e224af8b6",
+      "size": 604130
     },
     "SS_Digital_davlenie-aod.png": {
       "sha256": "29eede3cd6a131d3a972fe27ecc2b0c6804aa3c5772b903ce7008072706be697",
       "size": 308790
     },
     "SS_Digital_davlenie-watch-qr.png": {
-      "sha256": "4278b8a5a8c84e1c8b4198f605b0fce5d546d762c21649cc526dbd543a3d7f09",
-      "size": 1687066
+      "sha256": "73f8b72e208b1d5ffc9a880daea24312e958cb66a8c7ae853b75d2102a03002a",
+      "size": 1686927
     }
   }
 }
