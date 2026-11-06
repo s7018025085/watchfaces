@@ -5,18 +5,18 @@
   "name": "СС Digital",
   "slug": "SS_Digital",
   "version": "1.0.0",
-  "publishedAt": "2026-11-06T04:47:28.515Z",
+  "publishedAt": "2026-11-06T05:18:22.498Z",
   "files": {
     "SS_Digital.zpk": {
-      "sha256": "79b617f62012d5cd4e7ff9626e64626d45ece01bc2111b880ad824e428266441",
-      "size": 1413778
+      "sha256": "aaea953f8ac9f17bab97f76115e181918ab464c987b883def836eb1e54dafd84",
+      "size": 1413777
     },
     "device.zip": {
-      "sha256": "e42b922519216c87b50a8d0cac19875bbad761ea623893c3acdf7ccbe95e0dcc",
-      "size": 1416848
+      "sha256": "0f6608ba2bf9c8ba7d0913a2136c810215cab026185b571f9442f11aa14b7b42",
+      "size": 1416850
     },
     "project.zip": {
-      "sha256": "0302642bbc5657e75a024e1891fc768f84140d210a1f3a0057a58c13ba80a3a2",
+      "sha256": "87b49ad7bc2fabb130ef18584772769e4ef96a8a4c83d83bc0ac341421a035e6",
       "size": 1779644
     },
     "SS_Digital.watchface.json": {
