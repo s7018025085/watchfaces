@@ -5,23 +5,23 @@
   "name": "Elegant",
   "slug": "Elegant",
   "version": "1.0.0",
-  "publishedAt": "2026-11-06T13:08:27.751Z",
+  "publishedAt": "2026-11-06T13:14:41.324Z",
   "files": {
     "Elegant.zpk": {
-      "sha256": "a34f085d588579a4f064986d13b82c71361f4e0fe83b06c8e9580df643fc3bdd",
-      "size": 581081
+      "sha256": "d458a1f77e74fab3be8dde211e30a9cf4aa942af343d9105f5145ad6a46ca594",
+      "size": 1935066
     },
     "device.zip": {
-      "sha256": "dc9dec9d7e03880a3e9f45011ef68bc70e232ff0bd9cbef4fe6c7d72c7e23bfe",
-      "size": 606803
+      "sha256": "0d1c8578f6a837f9b026f37ca0c1a8049ae388ca2cc8f12a50d49b16611a76cc",
+      "size": 1960772
     },
     "project.zip": {
-      "sha256": "e5485e84eb82a1b76c0f7f0db0657b697dc1c29e6e2b7b5156ebe511b925b333",
-      "size": 3084816
+      "sha256": "701b40507bfa2dc9088768a548b2a863c5386b50f1df320dff898fafa02c32d2",
+      "size": 5925515
     },
     "Elegant.watchface.json": {
-      "sha256": "cd9526bf3c742518e0d8d8c80d1385b807a4dc322b37599e9f3d47eb4208c53b",
-      "size": 4873201
+      "sha256": "bf3bee907b6566cf737868118ae4ad84d28acd7bf23a29971fdf370da88b2a57",
+      "size": 11248827
     },
     "Elegant-watch.png": {
       "sha256": "a393fa26b5a062e780f9a75cdcb6ace9f4952aed6d808cb4e50352456e68cad0",
@@ -31,9 +31,13 @@
       "sha256": "ded52372b54af1585eaf65f91724824ccefa417f7b1db379a0350efad0e1a12f",
       "size": 50149
     },
+    "Elegant-night.png": {
+      "sha256": "c485f627bf1158b1641ac27d9fee6b78e4b419875c3beb1b519a702903632902",
+      "size": 935495
+    },
     "Elegant-aod.png": {
-      "sha256": "f4a73a3fbb6f8289ddb427081dd6720690e96634fb1f4b1eef47ebfc69366eab",
-      "size": 293398
+      "sha256": "c161e73a5fbc674825e65e5615d727ec7b746654c00ad7e8d528dd8a6be80a17",
+      "size": 300505
     },
     "Elegant-watch-qr.png": {
       "sha256": "423a5eb816f7513ab97206837b3963a4ac250da568f961421312515d65399e76",
