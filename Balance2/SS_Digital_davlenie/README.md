@@ -11,7 +11,7 @@
 | ![Дневной · основной](SS_Digital_davlenie-watch.png) | ![Ночной](SS_Digital_davlenie-night.png) | ![AOD](SS_Digital_davlenie-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-06T07:13:15.379Z
+- **Опубликовано:** 2026-11-06T07:16:39.256Z
 - **Установочный пакет:** [SS_Digital_davlenie.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_davlenie/SS_Digital_davlenie.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_davlenie/SS_Digital_davlenie.zpk`
 
