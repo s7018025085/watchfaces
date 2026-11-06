@@ -1218,7 +1218,7 @@
               "on_change": true
             },
             "float_enabled": true,
-            "float_interval": "5",
+            "float_interval": "1",
             "float_step": 6,
             "float_margin": 12
           },
