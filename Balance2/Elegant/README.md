@@ -6,12 +6,12 @@
 
 ## Превью циферблата
 
-| Дневной · основной | AOD |
-| :--: | :--: |
-| ![Дневной · основной](Elegant-watch.png) | ![AOD](Elegant-aod.png) |
+| Дневной · основной | Ночной | AOD |
+| :--: | :--: | :--: |
+| ![Дневной · основной](Elegant-watch.png) | ![Ночной](Elegant-night.png) | ![AOD](Elegant-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-06T13:08:27.751Z
+- **Опубликовано:** 2026-11-06T13:14:41.324Z
 - **Установочный пакет:** [Elegant.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Elegant/Elegant.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Elegant/Elegant.zpk`
 
@@ -27,6 +27,7 @@
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
 - `Elegant-watch.png` — дневной, основной циферблат в полном качестве
+- `Elegant-night.png` — ночной циферблат в полном качестве
 - `Elegant-aod.png` — превью AOD в полном качестве
 - `Elegant-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `Elegant-watch-qr.png` — мокап часов с циферблатом и QR-кодом
