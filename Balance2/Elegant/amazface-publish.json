@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4729723",
+  "name": "Elegant",
+  "slug": "Elegant",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-06T13:08:27.751Z",
+  "files": {
+    "Elegant.zpk": {
+      "sha256": "a34f085d588579a4f064986d13b82c71361f4e0fe83b06c8e9580df643fc3bdd",
+      "size": 581081
+    },
+    "device.zip": {
+      "sha256": "dc9dec9d7e03880a3e9f45011ef68bc70e232ff0bd9cbef4fe6c7d72c7e23bfe",
+      "size": 606803
+    },
+    "project.zip": {
+      "sha256": "e5485e84eb82a1b76c0f7f0db0657b697dc1c29e6e2b7b5156ebe511b925b333",
+      "size": 3084816
+    },
+    "Elegant.watchface.json": {
+      "sha256": "cd9526bf3c742518e0d8d8c80d1385b807a4dc322b37599e9f3d47eb4208c53b",
+      "size": 4873201
+    },
+    "Elegant-watch.png": {
+      "sha256": "a393fa26b5a062e780f9a75cdcb6ace9f4952aed6d808cb4e50352456e68cad0",
+      "size": 668578
+    },
+    "Elegant-watch-200.png": {
+      "sha256": "ded52372b54af1585eaf65f91724824ccefa417f7b1db379a0350efad0e1a12f",
+      "size": 50149
+    },
+    "Elegant-aod.png": {
+      "sha256": "f4a73a3fbb6f8289ddb427081dd6720690e96634fb1f4b1eef47ebfc69366eab",
+      "size": 293398
+    },
+    "Elegant-watch-qr.png": {
+      "sha256": "423a5eb816f7513ab97206837b3963a4ac250da568f961421312515d65399e76",
+      "size": 1637519
+    }
+  }
+}
