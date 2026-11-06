@@ -11,7 +11,7 @@
 | ![Дневной · основной](Elegant-watch.png) | ![Ночной](Elegant-night.png) | ![AOD](Elegant-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-06T13:25:38.347Z
+- **Опубликовано:** 2026-11-06T15:08:47.366Z
 - **Установочный пакет:** [Elegant.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Elegant/Elegant.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Elegant/Elegant.zpk`
 
