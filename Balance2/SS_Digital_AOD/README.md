@@ -11,7 +11,7 @@
 | ![Дневной · основной](SS_Digital_AOD-watch.png) | ![Ночной](SS_Digital_AOD-night.png) | ![AOD](SS_Digital_AOD-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-06T07:46:18.690Z
+- **Опубликовано:** 2026-11-06T07:51:50.792Z
 - **Установочный пакет:** [SS_Digital_AOD.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_AOD/SS_Digital_AOD.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_AOD/SS_Digital_AOD.zpk`
 
