@@ -5,22 +5,22 @@
   "name": "СС Digital АОД",
   "slug": "SS_Digital_AOD",
   "version": "1.0.0",
-  "publishedAt": "2026-11-06T07:46:18.690Z",
+  "publishedAt": "2026-11-06T07:51:50.792Z",
   "files": {
     "SS_Digital_AOD.zpk": {
-      "sha256": "b38652db11eb1d5ce2c0bde1f969034eff26507d50cc226b9e2ff8b7441fe40d",
-      "size": 1414899
+      "sha256": "051a7c0655bfada2f954b8758605e86de4b4415dad2a615b77bd8be15637cd81",
+      "size": 1414900
     },
     "device.zip": {
-      "sha256": "769af182af1dbae74382ea52d1465d37de0ce59d80904e48f19f39dfce5d9dc9",
-      "size": 1417912
+      "sha256": "dd65166fba75bff773a0d70760a332d2199d69c156a45e669aecb46401f1ea67",
+      "size": 1417913
     },
     "project.zip": {
-      "sha256": "67bb5ade60f174b0efdfda125fde966711dedbd2105171d4ee84d9804eafae3d",
+      "sha256": "f3b4e092645feaaf875464233fa8f990fdb82667c68a19e32486e8db79f244d3",
       "size": 1782909
     },
     "SS_Digital_AOD.watchface.json": {
-      "sha256": "1d24b2adae8793c323c8362ccbee1e08329ce116c0dac7e1720aed87bd5022c4",
+      "sha256": "ee60c6a06a89047bb4ae1fa26f069c6dad1902eb01570397067f20c876aab741",
       "size": 1171693
     },
     "SS_Digital_AOD-watch.png": {
