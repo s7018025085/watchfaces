@@ -5,19 +5,19 @@
   "name": "СС Digital АОД",
   "slug": "SS_Digital_AOD",
   "version": "1.0.0",
-  "publishedAt": "2026-11-06T08:00:29.011Z",
+  "publishedAt": "2026-11-06T11:34:26.439Z",
   "files": {
     "SS_Digital_AOD.zpk": {
-      "sha256": "d2869b2ce73137a4053c9844c5b8948072c21b9d861a368b2db253c91a35bf01",
-      "size": 1416602
+      "sha256": "018f1354799e3cdeee480643e3676c059ec42990324e477a4b0bdf283cd28764",
+      "size": 1417010
     },
     "device.zip": {
-      "sha256": "87884bc42f90ade5bbf51b6633f97473ee8869624f615323cc81baa6c6b0c1cc",
-      "size": 1419645
+      "sha256": "c6624cd586fd06f225e7ede3ee931075ae377bdff9d4f43fdc74d3dd95da101a",
+      "size": 1420066
     },
     "project.zip": {
-      "sha256": "843d2c4cf918582f89a12ed06ae905091caf1d7d09fcd29ffc92b33fc4441a84",
-      "size": 1790499
+      "sha256": "e39130b7c5c9733fd81b4397c0324549c4c3ecd0838b003738c85465cca63266",
+      "size": 1791584
     },
     "SS_Digital_AOD.watchface.json": {
       "sha256": "ee60c6a06a89047bb4ae1fa26f069c6dad1902eb01570397067f20c876aab741",
