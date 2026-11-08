@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "8691751",
+  "name": "Интерсцеллар2",
+  "slug": "Interstsellar2",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-08T14:30:18.488Z",
+  "files": {
+    "Interstsellar2.zpk": {
+      "sha256": "128ecf64514fad6266694f97b91a4c9956c814d4f3cf4d16189449ffdebcf04b",
+      "size": 2956464
+    },
+    "device.zip": {
+      "sha256": "6f0f09fd4d53dbd5a85f8c4051edf762a766c9a14a793703e0d868b8f6fe16b2",
+      "size": 2957094
+    },
+    "project.zip": {
+      "sha256": "58c259f605002a401ede0b44447fa0d680e15ea4891f70b927be11d7b9927882",
+      "size": 7199283
+    },
+    "Interstsellar2.watchface.json": {
+      "sha256": "1ade93409c31b5ff8ff0229084f78247db53bb361f0d3ecce77f2d397881c97f",
+      "size": 13311146
+    },
+    "Interstsellar2-watch.png": {
+      "sha256": "2971c3a2a0ae3559050618f5b1b48ac6330302af08ec097f6432fb86743154b2",
+      "size": 972634
+    },
+    "Interstsellar2-watch-200.png": {
+      "sha256": "2a36f8682cc4653d64e62c33329bfa98ce4c075d6c520fd0e0d25c29bc9da24d",
+      "size": 57966
+    },
+    "Interstsellar2-night.png": {
+      "sha256": "f1d32fad9bb0443ec8def6e3634321871902a0e9f91b7721db5faeb82d55d123",
+      "size": 935105
+    },
+    "Interstsellar2-aod.png": {
+      "sha256": "b56cc1766a30658a5aad06a5f159ace7612b653f275274476e04444ae4ca8493",
+      "size": 302095
+    },
+    "Interstsellar2-watch-qr.png": {
+      "sha256": "8b6e8bb7baae0a4fc574b3b1eda3d11973fbccb5f868438d8cd5c3bd80732c8c",
+      "size": 1839076
+    }
+  }
+}
