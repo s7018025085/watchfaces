@@ -10,8 +10,14 @@
 | :--: | :--: | :--: |
 | ![Дневной · основной](Interstsellar2-watch.png) | ![Ночной](Interstsellar2-night.png) | ![AOD](Interstsellar2-aod.png) |
 
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](Interstsellar2-tap-zones.png)
+
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-08T14:30:18.488Z
+- **Опубликовано:** 2026-11-08T14:48:20.442Z
 - **Установочный пакет:** [Interstsellar2.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Interstsellar2/Interstsellar2.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Interstsellar2/Interstsellar2.zpk`
 
@@ -31,5 +37,6 @@
 - `Interstsellar2-aod.png` — превью AOD в полном качестве
 - `Interstsellar2-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `Interstsellar2-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `Interstsellar2-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `Interstsellar2.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
