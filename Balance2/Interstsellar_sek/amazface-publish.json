@@ -5,47 +5,47 @@
   "name": "Интерсцеллар сек",
   "slug": "Interstsellar_sek",
   "version": "1.0.0",
-  "publishedAt": "2026-11-08T17:32:03.305Z",
+  "publishedAt": "2026-11-08T17:42:42.647Z",
   "files": {
     "Interstsellar_sek.zpk": {
-      "sha256": "3e6ba1a27f8501013988a7be25980e7c1afa39fbd83813e45413ffe06116bc75",
-      "size": 2975916
+      "sha256": "b061dfe402d80b510d65363e36e78e2113fd552364e30a68c78b22f8f02d11e8",
+      "size": 2972367
     },
     "device.zip": {
-      "sha256": "57caf1add7b00d7184a22436294fc44627c3d6922bd970e3f67b660cb8261415",
-      "size": 2976544
+      "sha256": "d0deadfec982eb2d3c9f6d9c9c13796b9a83531cffb9f064536d0fa8ecc36286",
+      "size": 2972959
     },
     "project.zip": {
-      "sha256": "2fee093d820ccd9d7f36bd9145f5c0b1778c6d43e72be1dec29f1596822906b0",
-      "size": 7354980
+      "sha256": "2610c490daabb1f05d1d41917c6df97f411eb5f5c29c591b8e420e86a21e2912",
+      "size": 7340782
     },
     "Interstsellar_sek.watchface.json": {
-      "sha256": "d1304ddbc6030cccfdedee94e04fc521b47da4978295081fee968da6649a1b75",
-      "size": 13519645
+      "sha256": "295d62e6c8d6844de4cc3978cd5389560bb3434d51058a117b3d6210061318c3",
+      "size": 13519627
     },
     "Interstsellar_sek-watch.png": {
-      "sha256": "ad3f5b74cb6bac5bfec475ac755be44a097beca35a354559aca25825f32815a8",
-      "size": 963023
+      "sha256": "8c92546666de5fb41133c713bf88210bc255ad076bb6763baa707e5885c60b49",
+      "size": 963085
     },
     "Interstsellar_sek-watch-200.png": {
       "sha256": "584a83d417d16fe41da1ad4d618b5e7644d9c0eddc9a0805fcb586d9e2d14baf",
       "size": 58129
     },
     "Interstsellar_sek-night.png": {
-      "sha256": "a1169f33459519175663c3599886583633e0722af472210ebc42b7fd109931f0",
-      "size": 923909
+      "sha256": "7627007772e0c07d8e46e8b7c942ee9bb46cc88496462c24dddf12190b8458ca",
+      "size": 923780
     },
     "Interstsellar_sek-aod.png": {
       "sha256": "c0e81441954e48efcc8273c28beba57adaf35e0b1d0814b483c60c5915660a0c",
       "size": 299486
     },
     "Interstsellar_sek-tap-zones.png": {
-      "sha256": "4f0f2424805af12a5f5da74cddce4442f681c0bc6993374be4c8ae581b0c5d51",
-      "size": 1620403
+      "sha256": "1283a284b7113f999238cca67cdaf3dde3c861f4e334ebe570eeb8fdaa8efb32",
+      "size": 1620456
     },
     "Interstsellar_sek-watch-qr.png": {
-      "sha256": "354cb4fbefd76e4a1b293453009e9aae67d23c9abd076e0e5043b04da90aa5b9",
-      "size": 1812981
+      "sha256": "ef5ad434166e99b76739d6993a848e1a66bdf80b3f0ccdfebf1225fde26c9a4b",
+      "size": 1813010
     }
   }
 }
