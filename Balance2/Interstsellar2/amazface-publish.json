@@ -5,23 +5,23 @@
   "name": "Интерсцеллар2",
   "slug": "Interstsellar2",
   "version": "1.0.0",
-  "publishedAt": "2026-11-08T16:11:05.743Z",
+  "publishedAt": "2026-11-08T16:37:38.311Z",
   "files": {
     "Interstsellar2.zpk": {
-      "sha256": "ba6cdd001bef537917265839db603dd006fbf0ebe8306fa0619a445d9d73a582",
-      "size": 2971544
+      "sha256": "f602fe99fc9997ea45356902ba0f046480af03b416123a139e3dd2607bb63028",
+      "size": 2976090
     },
     "device.zip": {
-      "sha256": "ef3be4333b1f84d9a6fb8cbdb0fb137003d95a0346c8fc5db62bf6ab596d49b1",
-      "size": 2972196
+      "sha256": "dc022e3a8bc7980e5fced43c5383e57635320f9686bf5e20675217311d35fd46",
+      "size": 2976733
     },
     "project.zip": {
-      "sha256": "1e418d754fb9e46409992b1fd530b400a51df974be804aca6af7249e2b537fce",
-      "size": 7342658
+      "sha256": "3e4d52d02c52252dc2f020f820bdff5004a8a56ebd7f41332f5e30a7b2534af0",
+      "size": 7357921
     },
     "Interstsellar2.watchface.json": {
-      "sha256": "6d089bf909c3868498196070b039adbe60124515922f415d0dc23d73a2514dd4",
-      "size": 13517380
+      "sha256": "6bacf700c8525f5f51af298faadcf7dfbdcbbe89bf2ca5d57e7a8110e9dbbeb7",
+      "size": 13519920
     },
     "Interstsellar2-watch.png": {
       "sha256": "04b506e465c90095fb50376819dd167fb707553a6a0c4ee838cdcaed2e3d7f1c",
@@ -32,8 +32,8 @@
       "size": 57853
     },
     "Interstsellar2-night.png": {
-      "sha256": "5cd100762206ab8b5a9116ad6e476b4cbb2f2d197cb544965e185d248eec6c63",
-      "size": 926599
+      "sha256": "8adfce0903c215e0bfaf84c21c81118f7376a23460e170a10b7b0be262982e5f",
+      "size": 926682
     },
     "Interstsellar2-aod.png": {
       "sha256": "c0e81441954e48efcc8273c28beba57adaf35e0b1d0814b483c60c5915660a0c",
