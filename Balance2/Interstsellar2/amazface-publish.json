@@ -5,47 +5,47 @@
   "name": "Интерсцеллар2",
   "slug": "Interstsellar2",
   "version": "1.0.0",
-  "publishedAt": "2026-11-08T14:48:20.442Z",
+  "publishedAt": "2026-11-08T15:12:43.440Z",
   "files": {
     "Interstsellar2.zpk": {
-      "sha256": "353e8df0944ccb4ebe6ab966a674df696725f694d23b2fa281229768affe50f4",
-      "size": 2956476
+      "sha256": "ecf6b0332a0c4406acedee6a2206413aee96bbe672750754430c2aae011268f6",
+      "size": 2947952
     },
     "device.zip": {
-      "sha256": "39af2ff9a9550ae3527f34b7c26d8109575637483542bdcf33b915b5946800a2",
-      "size": 2957094
+      "sha256": "3c9f30b06a8ff783e74aecb98c283a8d2b6c7ab402d0570af369864fc74a0144",
+      "size": 2948502
     },
     "project.zip": {
-      "sha256": "f1df29ebdcdaf613d7f7ec9736ac39198423202b7250b56529e1d95297c55141",
-      "size": 7199283
+      "sha256": "126b546d11523bf3651c8130c592b4e0f77e123dc53590a3faf9be5524273ca0",
+      "size": 7295749
     },
     "Interstsellar2.watchface.json": {
-      "sha256": "701f9d42ef006fa99ac61babff6838d4e0365222ef59fbb3a6480f160617d47d",
-      "size": 13311146
+      "sha256": "4543323bebe54f52ed5022af00b8e0a8b9dfce2c029a629711864dfd03feda0a",
+      "size": 13439662
     },
     "Interstsellar2-watch.png": {
-      "sha256": "2971c3a2a0ae3559050618f5b1b48ac6330302af08ec097f6432fb86743154b2",
-      "size": 972634
+      "sha256": "435e05c65a926a344632aba987a1d7ea991e28c099f50d0aa7fb5259d93ea597",
+      "size": 972666
     },
     "Interstsellar2-watch-200.png": {
-      "sha256": "2a36f8682cc4653d64e62c33329bfa98ce4c075d6c520fd0e0d25c29bc9da24d",
-      "size": 57966
+      "sha256": "a0e4f475c46b10dfdd29542950187177ffd44c5b618c23a4a020ae50352e1197",
+      "size": 57973
     },
     "Interstsellar2-night.png": {
-      "sha256": "f1d32fad9bb0443ec8def6e3634321871902a0e9f91b7721db5faeb82d55d123",
-      "size": 935105
+      "sha256": "a8f2934361b7f08e9a151b61e1c5f695cd081d5ceec1efbe64491a744b902cc2",
+      "size": 935074
     },
     "Interstsellar2-aod.png": {
-      "sha256": "b56cc1766a30658a5aad06a5f159ace7612b653f275274476e04444ae4ca8493",
-      "size": 302095
+      "sha256": "e7380bf0824fc5e8690ff2511f6ed3655ec84bd2c8b46d84abe61e6a050b60e4",
+      "size": 301914
     },
     "Interstsellar2-tap-zones.png": {
-      "sha256": "61e3ffee43429313deba453ddb84bd770f6d1ca3de5204e90b79d693aea93c6d",
-      "size": 1626615
+      "sha256": "19b69fea9c00d4048acfd7d2e6c9114c427861b05ccb4222addaf84a1e89f06e",
+      "size": 1626959
     },
     "Interstsellar2-watch-qr.png": {
-      "sha256": "8b6e8bb7baae0a4fc574b3b1eda3d11973fbccb5f868438d8cd5c3bd80732c8c",
-      "size": 1839076
+      "sha256": "c02302e5b821e6912f966e85a82256ceb0e167aa1e84eda8566f8eac2613ed64",
+      "size": 1839443
     }
   }
 }
