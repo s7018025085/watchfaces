@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "8691751",
+  "name": "Интерсцеллар сек",
+  "slug": "Interstsellar_sek",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-08T17:32:03.305Z",
+  "files": {
+    "Interstsellar_sek.zpk": {
+      "sha256": "3e6ba1a27f8501013988a7be25980e7c1afa39fbd83813e45413ffe06116bc75",
+      "size": 2975916
+    },
+    "device.zip": {
+      "sha256": "57caf1add7b00d7184a22436294fc44627c3d6922bd970e3f67b660cb8261415",
+      "size": 2976544
+    },
+    "project.zip": {
+      "sha256": "2fee093d820ccd9d7f36bd9145f5c0b1778c6d43e72be1dec29f1596822906b0",
+      "size": 7354980
+    },
+    "Interstsellar_sek.watchface.json": {
+      "sha256": "d1304ddbc6030cccfdedee94e04fc521b47da4978295081fee968da6649a1b75",
+      "size": 13519645
+    },
+    "Interstsellar_sek-watch.png": {
+      "sha256": "ad3f5b74cb6bac5bfec475ac755be44a097beca35a354559aca25825f32815a8",
+      "size": 963023
+    },
+    "Interstsellar_sek-watch-200.png": {
+      "sha256": "584a83d417d16fe41da1ad4d618b5e7644d9c0eddc9a0805fcb586d9e2d14baf",
+      "size": 58129
+    },
+    "Interstsellar_sek-night.png": {
+      "sha256": "a1169f33459519175663c3599886583633e0722af472210ebc42b7fd109931f0",
+      "size": 923909
+    },
+    "Interstsellar_sek-aod.png": {
+      "sha256": "c0e81441954e48efcc8273c28beba57adaf35e0b1d0814b483c60c5915660a0c",
+      "size": 299486
+    },
+    "Interstsellar_sek-tap-zones.png": {
+      "sha256": "4f0f2424805af12a5f5da74cddce4442f681c0bc6993374be4c8ae581b0c5d51",
+      "size": 1620403
+    },
+    "Interstsellar_sek-watch-qr.png": {
+      "sha256": "354cb4fbefd76e4a1b293453009e9aae67d23c9abd076e0e5043b04da90aa5b9",
+      "size": 1812981
+    }
+  }
+}
