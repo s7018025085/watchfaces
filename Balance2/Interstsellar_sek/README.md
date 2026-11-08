@@ -17,7 +17,7 @@
 ![Зоны нажатия](Interstsellar_sek-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-08T17:32:03.305Z
+- **Опубликовано:** 2026-11-08T17:42:42.647Z
 - **Установочный пакет:** [Interstsellar_sek.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Interstsellar_sek/Interstsellar_sek.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Interstsellar_sek/Interstsellar_sek.zpk`
 
