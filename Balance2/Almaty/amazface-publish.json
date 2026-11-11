@@ -5,27 +5,47 @@
   "name": "Almaty",
   "slug": "Almaty",
   "version": "1.0.0",
-  "publishedAt": "2026-10-23T18:25:04.516Z",
+  "publishedAt": "2026-11-11T16:54:37.552Z",
   "files": {
     "Almaty.zpk": {
-      "sha256": "94269a303a752851212ae5f92452f84b1047dbefe68ea2e8f0971be6bde096a3",
-      "size": 1607401
+      "sha256": "9eb9399e704e1656df13d9df054aa7b22bd4ae1ecd34165eda3ea2f2c37a2282",
+      "size": 1610944
     },
     "device.zip": {
-      "sha256": "5d474f989e208789eae4e507fdaead104f3aeb644ce822c95572fccfd2db93cb",
-      "size": 1623207
+      "sha256": "e33fc49544900b5040a4ba84355ad638f44245efd7a5609926e55940c6939dd2",
+      "size": 1627177
     },
     "project.zip": {
-      "sha256": "f08bbf518ebe3aa7122d6eb94a72159111d2d77775391930cdfcdc637fbdaf35",
-      "size": 4054996
+      "sha256": "dd043edaf88387a11510b0d3ea6a9758bf5bff77019765183f4e17d772e6679c",
+      "size": 4082253
     },
     "Almaty.watchface.json": {
-      "sha256": "96d08cac7cc11dbc617f77f539ddff5b3fbb5061d668dc7bc21eaf4593eaa043",
-      "size": 6309150
+      "sha256": "36b2bb0fa60aecc655a4ceb1fc319871010f9097ab27f8cd4b02d20c8e94a516",
+      "size": 6329461
     },
-    "watch-qr.png": {
-      "sha256": "6c5d261c71cb4b762bc185d41361cf5c2cf0ed688aed7c9cf2293caa377324a1",
-      "size": 2058278
+    "Almaty-watch.png": {
+      "sha256": "c32fddc845000048fbf66aad669beb5e4daf713144aed650ba0ef6189c5cf0a5",
+      "size": 962293
+    },
+    "Almaty-watch-200.png": {
+      "sha256": "392b950ed2d5a95bbe557f5d4cde8e94f94b612886bce5f64ab7045c821322d0",
+      "size": 59466
+    },
+    "Almaty-night.png": {
+      "sha256": "6e7db120e0c159eca5a4e356d289f6283ce0fdb2bc6d5fed9ebaf612c820b59a",
+      "size": 961255
+    },
+    "Almaty-aod.png": {
+      "sha256": "01fda03dc85033f0b16952554421c55e9f2206808ba32472ec6a395776ac7991",
+      "size": 309036
+    },
+    "Almaty-tap-zones.png": {
+      "sha256": "bafeb73d48f91c598dcceb165b59cc4471f72ba8cfd2590c21605315ed8ea4e4",
+      "size": 1606052
+    },
+    "Almaty-watch-qr.png": {
+      "sha256": "a3f2205cf495955537dcc6ced7c1e020e3a8d97742e6f3dfde50e08e4072c119",
+      "size": 1858347
     }
   }
 }
