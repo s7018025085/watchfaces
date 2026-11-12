@@ -5,27 +5,43 @@
   "name": "Звёздный рубеж",
   "slug": "Zvezdnyy_rubezh",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T12:59:21.540Z",
+  "publishedAt": "2026-11-12T17:51:47.557Z",
   "files": {
     "Zvezdnyy_rubezh.zpk": {
-      "sha256": "5a79f3283b0e4b1315095f442eba431d58f465de59086bc8cb9311ff45adb0b9",
-      "size": 350447
+      "sha256": "226556ba4b524f82b71f65e5def6eb24f1e941edde0cc1f1e1b9bc4d2da85f9d",
+      "size": 351754
     },
     "device.zip": {
-      "sha256": "b1f7e0c18a82fc3c428055357abceeff195f1c2373d5612aa7df1653e5c44646",
-      "size": 350409
+      "sha256": "af62f408cc44cd7e11a322cbbcded486eff00fa20a88d009ff27789fcc672e17",
+      "size": 351722
     },
     "project.zip": {
-      "sha256": "818f8094c30e6ec375f7b6b792057c1474a1543800c6ce9b5ff40315ae2ca1ec",
-      "size": 1586608
+      "sha256": "ea04a21777f2015e55fb6df0e5bffbf8256c5dd778b477eb2ab3d4bf718681e0",
+      "size": 1589472
     },
     "Zvezdnyy_rubezh.watchface.json": {
-      "sha256": "3ae1008201b797a99a2ef6e93290ba75e36c73c4e4a53efbd05b699c3a7f6bf0",
-      "size": 3243089
+      "sha256": "96005dbd64299978b909ee068c9346a1d6c6d6ee810401533449b9ce19b78f81",
+      "size": 3247151
     },
-    "watch-qr.png": {
-      "sha256": "661d95f8c513946fc12a02f5cd34361a7361720415bde3520f361cdedc12f6f4",
-      "size": 1823113
+    "Zvezdnyy_rubezh-watch.png": {
+      "sha256": "8e75fd55b9b279b7e6100d8099d408291df54493d5264075c4942d20f94365ab",
+      "size": 850933
+    },
+    "Zvezdnyy_rubezh-watch-200.png": {
+      "sha256": "544bcc44c66debe5a80b1e1d9265a9b130dbaaa090b37215e7efbf9a504e90f7",
+      "size": 51900
+    },
+    "Zvezdnyy_rubezh-aod.png": {
+      "sha256": "a049f6a2dd2d5c2cfa1fd51e3a2eb873d68265d15f27475171881b48ca786f35",
+      "size": 312741
+    },
+    "Zvezdnyy_rubezh-tap-zones.png": {
+      "sha256": "6f6aa789876d026e972342d28d017f38a0a63fcc7304099be34a79d40fb90f29",
+      "size": 1479839
+    },
+    "Zvezdnyy_rubezh-watch-qr.png": {
+      "sha256": "a1f2883bbdb6c372e902cd26e17fc7e03fef0962726640d1258150ec81f06395",
+      "size": 1707383
     }
   }
 }
