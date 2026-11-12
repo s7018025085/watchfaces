@@ -2,8 +2,16 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
+![Часы с циферблатом и QR-кодом для установки](Lodka-watch-qr.png)
+
+## Превью циферблата
+
+| Дневной · основной | AOD |
+| :--: | :--: |
+| ![Дневной · основной](Lodka-watch.png) | ![AOD](Lodka-aod.png) |
+
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-22T16:41:00.423Z
+- **Опубликовано:** 2026-11-12T17:48:56.536Z
 - **Установочный пакет:** [Lodka.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Lodka/Lodka.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Lodka/Lodka.zpk`
 
@@ -18,5 +26,9 @@
 - `Lodka.zpk` — установочный пакет
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
+- `Lodka-watch.png` — дневной, основной циферблат в полном качестве
+- `Lodka-aod.png` — превью AOD в полном качестве
+- `Lodka-watch-200.png` — уменьшенный дневной мокап высотой 200 px
+- `Lodka-watch-qr.png` — мокап часов с циферблатом и QR-кодом
 - `Lodka.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
