@@ -5,27 +5,47 @@
   "name": "День Республики",
   "slug": "Den_Respubliki",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T18:07:04.490Z",
+  "publishedAt": "2026-11-12T17:41:40.426Z",
   "files": {
     "Den_Respubliki.zpk": {
-      "sha256": "3fd998ab21beac0723bda9bf09f59862bcf893cba2eb434085a94a626befcdc2",
-      "size": 291357
+      "sha256": "1fe92e306d06542c28d67a987e63a357e2fdcdd834a7018e656520dd1ec6a60c",
+      "size": 290018
     },
     "device.zip": {
-      "sha256": "ea8b4c567d93e90b9e7343f091999bbdc621b0ea6d015e6388aebc73e9a9f539",
-      "size": 291019
+      "sha256": "9e0e37cea3f4a149642b1a19884c49c749a93a77dc58920621fc38ae33e86781",
+      "size": 289683
     },
     "project.zip": {
-      "sha256": "63343317663297525cd1f00fcd1f9321c6bcbf8044f9a0113be12cd01aee2bef",
-      "size": 1747333
+      "sha256": "85459b525b06baaeff28b1c49a520d48d8137a953501622f82c3246764ad4252",
+      "size": 1756021
     },
     "Den_Respubliki.watchface.json": {
-      "sha256": "c5736c8b3aed766e55ba807f6d7cea2da2d4b304986aeb4c619473e4e23128c1",
-      "size": 3201401
+      "sha256": "eb2cc9e67265a849fd4091cc20baa2164211592bca4b6a51735454bdca2bde3a",
+      "size": 3207193
     },
-    "watch-qr.png": {
-      "sha256": "bc70e61d7abfbdaa05acfc934d040e3e28857b03703a2d47875e4cdca4c3c9c1",
-      "size": 1934040
+    "Den_Respubliki-watch.png": {
+      "sha256": "ef492c147415452e3363b74621f87e096bb3560f50b617cc98e0d3d2d416550c",
+      "size": 957867
+    },
+    "Den_Respubliki-watch-200.png": {
+      "sha256": "6a7ade0d576ad62beb4bbb085782aa8d92925fb49a53935d30ed17c4b67093e2",
+      "size": 58427
+    },
+    "Den_Respubliki-night.png": {
+      "sha256": "8ebe500b29edf72e3f0efd7bac9a5ae9c8e2d8e05ea0a0a09eea5345a19f10e8",
+      "size": 957645
+    },
+    "Den_Respubliki-aod.png": {
+      "sha256": "ae76cd5ef36b8544d37f4e5400a30f579ae03d24c68dd80e4284fe1b59f72361",
+      "size": 301626
+    },
+    "Den_Respubliki-tap-zones.png": {
+      "sha256": "22d330a17cb28ffd735119eb22d2724553444283c9edd594e5bb069f501419c7",
+      "size": 1575575
+    },
+    "Den_Respubliki-watch-qr.png": {
+      "sha256": "3713e83ae914eca3e2c670c93b3c53c09b44ebc393d81869907b3cfc66d746b1",
+      "size": 1829917
     }
   }
 }
