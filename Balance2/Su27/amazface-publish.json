@@ -5,23 +5,39 @@
   "name": "Su27",
   "slug": "Su27",
   "version": "1.0.0",
-  "publishedAt": "2026-10-22T18:53:40.978Z",
+  "publishedAt": "2026-11-12T18:02:34.691Z",
   "files": {
     "Su27.zpk": {
-      "sha256": "cec94429e0b169f5f21791c2ca53e27eb9c26ff32c81f177a4bcb604bc72ae37",
-      "size": 1429300
+      "sha256": "561f6555a8f3133c5143a1cf19d95b81ccd8e02ee8eb18215edc82c0ccba2af2",
+      "size": 1427579
     },
     "device.zip": {
-      "sha256": "c9eacd30151e3a2e711db48e6ee5abfb021d76dd99a6846ab5277e9992e7a0ec",
-      "size": 1431270
+      "sha256": "d58993739bd0f79cdf862a5c55471fcc59ce076000fad1458febb66caa444069",
+      "size": 1429542
     },
     "project.zip": {
-      "sha256": "abda25cbc7403884e6c6a5a4f4f8564d01070d97392d3b839e84103acf50cae6",
-      "size": 3942570
+      "sha256": "281211e21e6eec67d4d2502e77c86d139b896470059f6d3a1a8e06e9b02f2e65",
+      "size": 3945172
     },
     "Su27.watchface.json": {
-      "sha256": "9b6d8fa6c0c1e42ad8f4da9dcd25459d0a6402fb809b189f2c8fe33b65bfd9a7",
-      "size": 5813831
+      "sha256": "8d8096952746cc7c4d5467b3b9c71ac89eef3f4f6a25191e1c23520294300d0f",
+      "size": 5822876
+    },
+    "Su27-watch.png": {
+      "sha256": "0785bae171402ad4f924dbf84bc7c0ea10cb8b5a3b602ab4110e788e9272a2a8",
+      "size": 988232
+    },
+    "Su27-watch-200.png": {
+      "sha256": "be6078639cdc61bcd8e2ec2a2594059d18284971a85a886632e20f716486cfc3",
+      "size": 57885
+    },
+    "Su27-aod.png": {
+      "sha256": "fde6398e0d279012897bb33afb6f4009e652fba163dcab4d2602247482ff958a",
+      "size": 370899
+    },
+    "Su27-watch-qr.png": {
+      "sha256": "a90dbcfd0d5c8c641a75454fb1fe58e6c4f0859e67e9d6379be4baeeb9d747aa",
+      "size": 1855079
     }
   }
 }
