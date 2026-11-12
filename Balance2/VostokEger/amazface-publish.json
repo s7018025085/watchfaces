@@ -5,27 +5,43 @@
   "name": "VostokЕгерь",
   "slug": "VostokEger",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T12:21:50.957Z",
+  "publishedAt": "2026-11-12T17:55:09.730Z",
   "files": {
     "VostokEger.zpk": {
-      "sha256": "2b3a4936d788937aa6df031917165ccc24b499eda7bc424f5e89dcb5da5a6b89",
-      "size": 494040
+      "sha256": "8239463fcf6a28ad4bbaf146d3a98c8689f514dd9a05ecc1177fa640688b8ffb",
+      "size": 495577
     },
     "device.zip": {
-      "sha256": "79ffa276616af3c1d7a266db57107ebfb9d854eb278273d01310500a7b93d466",
-      "size": 493964
+      "sha256": "b7a411651b04e6bcce0bf574669bf2bd922306c19ea41518cd199505b6263479",
+      "size": 495490
     },
     "project.zip": {
-      "sha256": "c606010d31957c9cc1cf27238a4e7326793876c0cde402878442a250411f9cc8",
-      "size": 1976047
+      "sha256": "5a6eebadb62147ebb8a39c1fd191a3237d281d2071ae52fd60a30567fc60d547",
+      "size": 1980007
     },
     "VostokEger.watchface.json": {
-      "sha256": "5240ccd6fbecfa3cbfae3f00f503dea0dd517cb05c1a3b70f346f24a6ebee988",
-      "size": 5795358
+      "sha256": "a3ec65fe5b91d117f97ca02aea56f33533c0e07458f57dea0af633da27363232",
+      "size": 5796504
     },
-    "watch-qr.png": {
-      "sha256": "0d2da160ab5f36173e19ff2677682e8f171f351b518979ddc4bc72ee9201593e",
-      "size": 1836468
+    "VostokEger-watch.png": {
+      "sha256": "936a33a2330742a50bfd3928d5d9b3ba0bdb455b7d036fcadbb8a7d36848f942",
+      "size": 862445
+    },
+    "VostokEger-watch-200.png": {
+      "sha256": "ecfe1195f6e478f22ef5a5de4d1858949bf6df677ed9a0c4aa499ce8e57481b0",
+      "size": 52827
+    },
+    "VostokEger-aod.png": {
+      "sha256": "7d14e5aef8f558c47b4948bedf43d86bb6c0e45d5822f2ad6018685e8fde5e3f",
+      "size": 306067
+    },
+    "VostokEger-tap-zones.png": {
+      "sha256": "719b327cb4607d001db89e31bd5ef20f60aa85b60e807aec52a5fca9ade45ed4",
+      "size": 1483583
+    },
+    "VostokEger-watch-qr.png": {
+      "sha256": "3a1567193c09ca3054a4b08db0fd03423959d6cdc4c5b00335169a6527001c77",
+      "size": 1715729
     }
   }
 }
