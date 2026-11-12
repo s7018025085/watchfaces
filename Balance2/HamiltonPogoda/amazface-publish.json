@@ -5,27 +5,39 @@
   "name": "HamiltonPogoda",
   "slug": "HamiltonPogoda",
   "version": "1.1.1",
-  "publishedAt": "2026-10-23T08:15:53.395Z",
+  "publishedAt": "2026-11-12T17:46:05.271Z",
   "files": {
     "HamiltonPogoda.zpk": {
-      "sha256": "ebf0f2f4d0807bc5649e5509e6e9e499a3b5f8ec71ab3b60db5ec30496eb8022",
-      "size": 1306395
+      "sha256": "1e076674c271a53ae802d0f226abe4e68794f482d19b4a8c2986593d3eebc18e",
+      "size": 1312108
     },
     "device.zip": {
-      "sha256": "16db4ef8904defcc3841da81b1110622e008723f673eac7673eaf8930c67a0e9",
-      "size": 1321111
+      "sha256": "5152fe241e94bb5094bb6e5ae94e443b1b181dc591f2a31d6a057bbdb9aaeed5",
+      "size": 1326786
     },
     "project.zip": {
-      "sha256": "b6516f55ed92a58ef9feb92e73de601324f6b9aa27b3c71a24a1bbe47fa804e3",
-      "size": 2922040
+      "sha256": "3b06bb213b03ffddfb605ecfdff0e01af3d5c3ce6afa6a7a3e2359c9d1f0f99b",
+      "size": 2926423
     },
     "HamiltonPogoda.watchface.json": {
-      "sha256": "5ee8ddb7ffe9a076c405f98ecea9ee82ad1bb5873528c2da7cc0c968261423c4",
-      "size": 2440163
+      "sha256": "54544819363b6e6cce529835869883395c28b4d27e8f90198b63d5443965b8d8",
+      "size": 2445559
     },
-    "watch-qr.png": {
-      "sha256": "6055cd289d288b85bf4a85b1e8489e40eace1e1d7363d06966be2b7d4752982e",
-      "size": 2155424
+    "HamiltonPogoda-watch.png": {
+      "sha256": "f7c798acfd5aaf8527df7542fcb429a4f426f1fa8a27103c4a860e53089410d8",
+      "size": 926441
+    },
+    "HamiltonPogoda-watch-200.png": {
+      "sha256": "557defc6370bb49acafc5b35a588148407fd8461b92c29d110ba821fbfe6de94",
+      "size": 58074
+    },
+    "HamiltonPogoda-aod.png": {
+      "sha256": "76f7827d7f658167e26686a2530345f9ad2ed7db2a7596b2356b9263f91a563f",
+      "size": 319052
+    },
+    "HamiltonPogoda-watch-qr.png": {
+      "sha256": "27e070fb9a93aaa464027aae4463aa0a9054762e11751fafc1f90b4a102b618f",
+      "size": 1794755
     }
   }
 }
