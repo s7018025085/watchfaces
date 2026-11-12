@@ -5,27 +5,43 @@
   "name": "Vostok",
   "slug": "Vostok",
   "version": "1.0.0",
-  "publishedAt": "2026-10-24T08:43:36.157Z",
+  "publishedAt": "2026-11-12T18:20:57.114Z",
   "files": {
     "Vostok.zpk": {
-      "sha256": "c2bd72336284946107a8b44c231444ad8382dfd733135a66e7781bb68655cfe1",
-      "size": 360911
+      "sha256": "d8dfeba5ac7d4e72ac3e4cae940293ed8a27611ac1f4e92fedebcf61cb81f8a4",
+      "size": 366053
     },
     "device.zip": {
-      "sha256": "c61273f9c99417f883a307e1734f60703538be5423c984d169a9279b6acaad13",
-      "size": 360802
+      "sha256": "28cf2cc6dcaadc4f98df88098882154c6c3ab13a214819a4df024f5ee99f04fe",
+      "size": 365957
     },
     "project.zip": {
-      "sha256": "f1ab3c9a74aed1dd87241cea8b988dedea03663f4b81723a63c764e857af2a38",
-      "size": 1630779
+      "sha256": "ec4082b7b1e31afe1ca6ae7d5d3a74fd164ccd20370a7b0f722c868df1d60ae4",
+      "size": 1631956
     },
     "Vostok.watchface.json": {
-      "sha256": "9034817416a25cdccaad6ea86c690227648e289778764180ca1f3942f52b5175",
-      "size": 3193634
+      "sha256": "560235931e1e31a3091736d61674b53dbb4e1c7205ab5aa602669747d1fcd7db",
+      "size": 3196072
     },
-    "watch-qr.png": {
-      "sha256": "07f092c9ad6a7f40b4c6c15a7ba568428b1340255980ee5e4368d1ce69434161",
-      "size": 1960340
+    "Vostok-watch.png": {
+      "sha256": "6b4e078c019066c9872cdeeb2bac82c5a50ac741a7733ce1d6744781787201bd",
+      "size": 886839
+    },
+    "Vostok-watch-200.png": {
+      "sha256": "d5afc96875e44940475a42979eed381759445e2b797b4614d483ea2585810cce",
+      "size": 54297
+    },
+    "Vostok-aod.png": {
+      "sha256": "7d14e5aef8f558c47b4948bedf43d86bb6c0e45d5822f2ad6018685e8fde5e3f",
+      "size": 306067
+    },
+    "Vostok-tap-zones.png": {
+      "sha256": "de9ae545e29489b842e15cae5176df58564bcedd952a870544939d296674ecbc",
+      "size": 1519378
+    },
+    "Vostok-watch-qr.png": {
+      "sha256": "5ee6ea7ed86896287a13b807afe8095f71a1c6af77678934a781e25dc5b04483",
+      "size": 1742397
     }
   }
 }
