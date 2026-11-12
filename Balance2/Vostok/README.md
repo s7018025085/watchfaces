@@ -2,10 +2,22 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
-![Циферблат и QR-код для установки](watch-qr.png)
+![Часы с циферблатом и QR-кодом для установки](Vostok-watch-qr.png)
+
+## Превью циферблата
+
+| Дневной · основной | AOD |
+| :--: | :--: |
+| ![Дневной · основной](Vostok-watch.png) | ![AOD](Vostok-aod.png) |
+
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](Vostok-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-24T08:43:36.157Z
+- **Опубликовано:** 2026-11-12T18:20:57.114Z
 - **Установочный пакет:** [Vostok.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Vostok/Vostok.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Vostok/Vostok.zpk`
 
@@ -20,6 +32,10 @@
 - `Vostok.zpk` — установочный пакет
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
-- `watch-qr.png` — картинка «часы + QR-код» для установки
+- `Vostok-watch.png` — дневной, основной циферблат в полном качестве
+- `Vostok-aod.png` — превью AOD в полном качестве
+- `Vostok-watch-200.png` — уменьшенный дневной мокап высотой 200 px
+- `Vostok-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `Vostok-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `Vostok.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
