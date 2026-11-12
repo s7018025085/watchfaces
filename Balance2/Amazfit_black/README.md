@@ -2,10 +2,22 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
-![Циферблат и QR-код для установки](watch-qr.png)
+![Часы с циферблатом и QR-кодом для установки](Amazfit_black-watch-qr.png)
+
+## Превью циферблата
+
+| Дневной · основной | Ночной | AOD |
+| :--: | :--: | :--: |
+| ![Дневной · основной](Amazfit_black-watch.png) | ![Ночной](Amazfit_black-night.png) | ![AOD](Amazfit_black-aod.png) |
+
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](Amazfit_black-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-10-24T16:39:43.971Z
+- **Опубликовано:** 2026-11-12T16:55:47.436Z
 - **Установочный пакет:** [Amazfit_black.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Amazfit_black/Amazfit_black.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Amazfit_black/Amazfit_black.zpk`
 
@@ -20,6 +32,11 @@
 - `Amazfit_black.zpk` — установочный пакет
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
-- `watch-qr.png` — картинка «часы + QR-код» для установки
+- `Amazfit_black-watch.png` — дневной, основной циферблат в полном качестве
+- `Amazfit_black-night.png` — ночной циферблат в полном качестве
+- `Amazfit_black-aod.png` — превью AOD в полном качестве
+- `Amazfit_black-watch-200.png` — уменьшенный дневной мокап высотой 200 px
+- `Amazfit_black-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `Amazfit_black-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `Amazfit_black.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
