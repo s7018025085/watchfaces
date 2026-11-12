@@ -5,23 +5,39 @@
   "name": "Lodka",
   "slug": "Lodka",
   "version": "1.0.0",
-  "publishedAt": "2026-10-22T16:41:00.423Z",
+  "publishedAt": "2026-11-12T17:48:56.536Z",
   "files": {
     "Lodka.zpk": {
-      "sha256": "25806e6b06ee8d7ebf6472cc83990f3347708fd1c19587eb0b9ec84b1e468eb1",
-      "size": 346308
+      "sha256": "6227bcdd4ad5791d2dc64804053ad90f9bdb1aa07f6d9d94e2ef832321f12755",
+      "size": 348145
     },
     "device.zip": {
-      "sha256": "b3c3a733a33fa15e260d8f081b1429987d4b620be8aea10836f643fbfa4c8868",
-      "size": 346451
+      "sha256": "a54d5bd77861b09ae0b5e258bea6745d3734654de3c2e5966f2c05b653bd1f55",
+      "size": 348250
     },
     "project.zip": {
-      "sha256": "ddeb0586b464d5d6d58b2c1270db250d42280586062baa54d56c3d94377ecb8d",
-      "size": 1889655
+      "sha256": "bc522d273ff77b845080a5bf1daeb7d0f825263fe34dfd120001b5c79cc4608e",
+      "size": 1891836
     },
     "Lodka.watchface.json": {
-      "sha256": "ab525848640a8d9ad3d78ef697c3b48bc19faa8fc3716cc05ae01a4705ac406f",
-      "size": 1003865
+      "sha256": "92c27934f77c1d02984c007fbb4d5b4a993fa07051ae9c42fdac77365ce1a8a4",
+      "size": 1004966
+    },
+    "Lodka-watch.png": {
+      "sha256": "963fec872458c584536b3572fce4cad979782994c67d1cd79e2f47672fa51c7c",
+      "size": 1004151
+    },
+    "Lodka-watch-200.png": {
+      "sha256": "0afd4a1c8a8745428ad5672b4a529e8938426fab026d408b8eaeac10bf5818b8",
+      "size": 58211
+    },
+    "Lodka-aod.png": {
+      "sha256": "163a8723a91dbaff49b54574800a50741e3521f05f16d2d17f2ca679ae260eb0",
+      "size": 293385
+    },
+    "Lodka-watch-qr.png": {
+      "sha256": "56b07424e9a8d1d3be850221004c2d0280daf0d2c07cd186d822da4aa5c8431b",
+      "size": 1866895
     }
   }
 }
