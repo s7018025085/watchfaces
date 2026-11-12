@@ -10,8 +10,14 @@
 | :--: | :--: | :--: |
 | ![Дневной · основной](SS_Digital_davlenie-watch.png) | ![Ночной](SS_Digital_davlenie-night.png) | ![AOD](SS_Digital_davlenie-aod.png) |
 
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](SS_Digital_davlenie-tap-zones.png)
+
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-06T07:16:39.256Z
+- **Опубликовано:** 2026-11-12T18:58:54.775Z
 - **Установочный пакет:** [SS_Digital_davlenie.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_davlenie/SS_Digital_davlenie.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/SS_Digital_davlenie/SS_Digital_davlenie.zpk`
 
@@ -31,5 +37,6 @@
 - `SS_Digital_davlenie-aod.png` — превью AOD в полном качестве
 - `SS_Digital_davlenie-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `SS_Digital_davlenie-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `SS_Digital_davlenie-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `SS_Digital_davlenie.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
