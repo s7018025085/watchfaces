@@ -5,18 +5,18 @@
   "name": "Contra",
   "slug": "Contra",
   "version": "1.0.0",
-  "publishedAt": "2026-11-13T06:29:14.608Z",
+  "publishedAt": "2026-11-13T06:35:50.972Z",
   "files": {
     "Contra.zpk": {
-      "sha256": "a9f42ec4cec5c472560600e6afec706bf5da7e0e6cdd8bee68b5176786270737",
-      "size": 450260
+      "sha256": "3d9a4dfe995100342a2f8bf577da39e9fd3d6200ceb4acadfb68c7d582555e2b",
+      "size": 450252
     },
     "device.zip": {
-      "sha256": "92a06e9019ed1cd848d601564e2c3e6fe40bf43d9182313586036a6ae923ef14",
-      "size": 470572
+      "sha256": "86fd90d370b5e5f8e6b0bc352905760793e638dae4f97a0499a81ee635e5691b",
+      "size": 470573
     },
     "project.zip": {
-      "sha256": "df111f10587f7ad36c94782324ce5577ea1c92b130ac52f185649805b5eacc6f",
+      "sha256": "c22d4aa99bf0061fa6e5d397ced6196f7a1ce01977cb18dc201a849ac964052f",
       "size": 2325998
     },
     "Contra.watchface.json": {
