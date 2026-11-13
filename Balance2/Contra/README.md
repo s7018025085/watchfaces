@@ -17,7 +17,7 @@
 ![Зоны нажатия](Contra-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-13T05:35:48.222Z
+- **Опубликовано:** 2026-11-13T06:19:55.210Z
 - **Установочный пакет:** [Contra.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Contra/Contra.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Contra/Contra.zpk`
 
