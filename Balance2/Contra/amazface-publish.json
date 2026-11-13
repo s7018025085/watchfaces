@@ -5,23 +5,23 @@
   "name": "Contra",
   "slug": "Contra",
   "version": "1.0.0",
-  "publishedAt": "2026-11-13T06:19:55.210Z",
+  "publishedAt": "2026-11-13T06:29:14.608Z",
   "files": {
     "Contra.zpk": {
-      "sha256": "34a869a31ae910039eb5f26beff646ffe3ef0ed421a1a4bf6796a64b6c4b8964",
-      "size": 450257
+      "sha256": "a9f42ec4cec5c472560600e6afec706bf5da7e0e6cdd8bee68b5176786270737",
+      "size": 450260
     },
     "device.zip": {
-      "sha256": "697093060d90965004e6aab7954b5d98d3fe86f43e12f3e041a8fea18c5229a1",
-      "size": 470573
+      "sha256": "92a06e9019ed1cd848d601564e2c3e6fe40bf43d9182313586036a6ae923ef14",
+      "size": 470572
     },
     "project.zip": {
-      "sha256": "1f0c7629885af24175023c31c4a55cc406b952953a9320bbcbb284bc87ba76b2",
+      "sha256": "df111f10587f7ad36c94782324ce5577ea1c92b130ac52f185649805b5eacc6f",
       "size": 2325998
     },
     "Contra.watchface.json": {
-      "sha256": "52855e7322e0891fa37a92d559c59197e65c5574f9aa5f0691c17d6f9ca46d9d",
-      "size": 6279708
+      "sha256": "040381f569ea5bd089c41d24002c7b4955eb8c07c76e4a8f400ed51426c3919a",
+      "size": 6279634
     },
     "Contra-watch.png": {
       "sha256": "91bc90bed66ccb2340f0d00a74492cec20b034beff2f878358cfa7254f580c7f",
