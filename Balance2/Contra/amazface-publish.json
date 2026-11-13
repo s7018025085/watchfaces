@@ -5,31 +5,31 @@
   "name": "Contra",
   "slug": "Contra",
   "version": "1.0.0",
-  "publishedAt": "2026-11-13T05:23:19.491Z",
+  "publishedAt": "2026-11-13T05:33:04.646Z",
   "files": {
     "Contra.zpk": {
-      "sha256": "f4b87952b100a23aede76e46b269a432d8d738fc0b833e26802699899caba7bb",
-      "size": 449087
+      "sha256": "e96e2abd3698850224610206fc0090708b9c0e5b8af62af29922900793061a34",
+      "size": 451964
     },
     "device.zip": {
-      "sha256": "f4cd472544512ecb55cc871ae50afc93e6d57d1ca9d32bc9b6ddf00d8502f40d",
-      "size": 469413
+      "sha256": "23f95e6b9e4bd96c7793ec5f686758ba281522fee63bab4404add0bc9995a1c6",
+      "size": 472273
     },
     "project.zip": {
-      "sha256": "64a31f5cbe4846c4c85c74cb4683d57fd6584d43ef8ea6a5ee9afb22bd3bd690",
-      "size": 2322621
+      "sha256": "1c14e17c62f6c52491d6e8c2f51e6905682f2493e877307a7806fb02a687859d",
+      "size": 2326082
     },
     "Contra.watchface.json": {
-      "sha256": "3173e81e2a07d5189e93107db20faf3def651f5476e3d347ea58ca9c8c94370f",
-      "size": 6274462
+      "sha256": "dc3646e45557ca8fa3aaf43ad541907001c24d90e091e4778a7f9baad16e9dfe",
+      "size": 6279606
     },
     "Contra-watch.png": {
-      "sha256": "1f530b0d5d31f7feb5829d4ab03a1559a6371732dba5c58617c231b5fd0f71bb",
-      "size": 970414
+      "sha256": "859c21a26143f9a8a98478ef6ba659012118d4c99621a9e39ddc980880b5f6d1",
+      "size": 970654
     },
     "Contra-watch-200.png": {
-      "sha256": "6405a9494a79d6fe821b8008e637956296a23648a8e8e6ad44e60c9ca32155db",
-      "size": 58725
+      "sha256": "43cab46c2646fcebb02faf31c2e76d28e166c92325c3d40c06aa34f7ae871afd",
+      "size": 58873
     },
     "Contra-night.png": {
       "sha256": "baf3a24090bbd142b5db53a78b9ccbacddbbc0507475982dc054b9d3a2a2d0a7",
@@ -40,12 +40,12 @@
       "size": 295997
     },
     "Contra-tap-zones.png": {
-      "sha256": "9017d490b7eb016868cc10f5ba66c9ade2d92285aee799d869e08546f9597b22",
-      "size": 1706068
+      "sha256": "d4d9d3d67a902f7565706e19fe67b740118be24301c81d63c02f23d410e2c377",
+      "size": 1706494
     },
     "Contra-watch-qr.png": {
-      "sha256": "205970a76833377c37cbaf55ebfde1bac4e3ceb23af0f677d842a1930de4133a",
-      "size": 1962325
+      "sha256": "94b9da75e1e3f9dc9fb94626518cc0a932e4125da85c72c4c35bff0c5c963f09",
+      "size": 1963224
     }
   }
 }
