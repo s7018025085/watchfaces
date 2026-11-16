@@ -11,7 +11,7 @@
 | ![Дневной · основной](Comando-watch.png) | ![Ночной](Comando-night.png) | ![AOD](Comando-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-16T17:46:38.804Z
+- **Опубликовано:** 2026-11-16T18:16:28.529Z
 - **Установочный пакет:** [Comando.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk`
 
