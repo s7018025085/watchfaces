@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4316554",
+  "name": "Contra test",
+  "slug": "Contra_test",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-16T03:29:48.666Z",
+  "files": {
+    "Contra_test.zpk": {
+      "sha256": "1326f6e9c81a53c63217104091f8a3d3ec40fd54a01a9f6c96d9076c151d2654",
+      "size": 451947
+    },
+    "device.zip": {
+      "sha256": "69fbadb0f5f68bf4a7128e81416e85fab46aacf045e1bc5072eddbe07baa2814",
+      "size": 472255
+    },
+    "project.zip": {
+      "sha256": "78f4a89307c45a32f647f7c280ce03b92c69d2d78b9fc8c07ea610c27121f269",
+      "size": 2321916
+    },
+    "Contra_test.watchface.json": {
+      "sha256": "b121cf98115f4b5b88f907e0a9dfc2c3c32fcca511a9470bb4c4e39c11fa4a5a",
+      "size": 6280349
+    },
+    "Contra_test-watch.png": {
+      "sha256": "1f6fef0f8dc673293dee6a4009126dfafd2e2e33e8058727a1d2f5d4c3e3c8f6",
+      "size": 957882
+    },
+    "Contra_test-watch-200.png": {
+      "sha256": "9eca22f06f57b549989a7b126a1f42670111b52cc9a5f1a42eb8f66597ca9e7f",
+      "size": 58888
+    },
+    "Contra_test-night.png": {
+      "sha256": "baf3a24090bbd142b5db53a78b9ccbacddbbc0507475982dc054b9d3a2a2d0a7",
+      "size": 893273
+    },
+    "Contra_test-aod.png": {
+      "sha256": "4b1c0b00dd394284f53224bb6bfadb3616a5bcb2c5a97de694742ade17a26baa",
+      "size": 295997
+    },
+    "Contra_test-tap-zones.png": {
+      "sha256": "98c28ccb86838398710f46c2870e0fd173dda1181fe5702fbf71bff4b2065ec1",
+      "size": 1695227
+    },
+    "Contra_test-watch-qr.png": {
+      "sha256": "0f6832d5701e16111b06deaf6f5bfb1f838ecd5231bbdda38f5c3d50f9a478ab",
+      "size": 1954619
+    }
+  }
+}
