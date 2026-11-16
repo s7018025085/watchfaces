@@ -5,31 +5,31 @@
   "name": "Comando",
   "slug": "Comando",
   "version": "1.0.0",
-  "publishedAt": "2026-11-16T18:16:28.529Z",
+  "publishedAt": "2026-11-16T18:23:56.234Z",
   "files": {
     "Comando.zpk": {
-      "sha256": "9dbfcb5ff586f1d9fba7042631e104f1054aa709c5481e51dadba6fe79a9cabe",
-      "size": 1270565
+      "sha256": "d0335598407848ff1bbd8b6a81722f311059bb020680cd09f0ef3b0d2b6a1fa9",
+      "size": 1270274
     },
     "device.zip": {
-      "sha256": "81fcd7d9c83c5b0e9f845ad19966eb7693667aacae0e55c678ccb35c0061b782",
-      "size": 1273798
+      "sha256": "0a2e269ed399c20f7e2b983cafa6fb2ce714876aeb1707ebac5fc6e2ea5af3df",
+      "size": 1273515
     },
     "project.zip": {
-      "sha256": "d123d5261c128ab2af73ef4d4e378d149044ff6df07ef724ff1bc04e4f08e4b5",
-      "size": 4988793
+      "sha256": "e55c4a5265989a61eca52b5b85944b13cf958c39c58519df3be23d05a4d42240",
+      "size": 4988937
     },
     "Comando.watchface.json": {
-      "sha256": "cb995ebfb7ec0ce93a3162b28b45389de9c8e455e22c95d903f4317878748a22",
-      "size": 7647617
+      "sha256": "3abf872666780ed49e95a227c4a30a6c0f68b96553a8ebf61245a36db38ba40a",
+      "size": 7647181
     },
     "Comando-watch.png": {
-      "sha256": "67d1e1a1f957418012c08d361e1a64a22e8bde2370d61159fa030bbf34a9eafc",
-      "size": 805759
+      "sha256": "4453b1dc04684c600c654444e18273b104f167aa8583d3de4fd708154af0909d",
+      "size": 806070
     },
     "Comando-watch-200.png": {
-      "sha256": "f61455ff93c1822a308376e10afb855f69a23d6a8273d98ed3769e848ec1867c",
-      "size": 51078
+      "sha256": "43fd712e50e127961abad9cea76a92d73535010c49a04e74aea530d86b996072",
+      "size": 50896
     },
     "Comando-night.png": {
       "sha256": "7181eeb813bcc89fa4658022f03fb44e1b4b4bf51e331ac18407bfd8d4bfbab7",
@@ -40,8 +40,8 @@
       "size": 308932
     },
     "Comando-watch-qr.png": {
-      "sha256": "a4629afdc10fec3f716b8e8efa0f1671c4e324874a5c4266572476dbf05cd565",
-      "size": 1676431
+      "sha256": "9df7ecfb177305403343ca5ffe24ba4ea1fbc875fc2fbc175316a4502036899d",
+      "size": 1675638
     }
   }
 }
