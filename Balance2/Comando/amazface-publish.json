@@ -1,0 +1,47 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5356320",
+  "name": "Comando",
+  "slug": "Comando",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-16T17:31:44.918Z",
+  "files": {
+    "Comando.zpk": {
+      "sha256": "0537081768d26081732702129d041e1cceae8b5f115f6dca470f03e7a5299888",
+      "size": 1272833
+    },
+    "device.zip": {
+      "sha256": "c6df544597b80a0f5699fad89e00ce1eaabd58d19ec31dd40ade033d350b8275",
+      "size": 1275994
+    },
+    "project.zip": {
+      "sha256": "81f23f1b2e2da0661d79d39b3d2e138e571651bd84d2a6b1cfad38f497c9a796",
+      "size": 4993531
+    },
+    "Comando.watchface.json": {
+      "sha256": "b2088bf812eecd5b70aec9f3cf919b5c681b1aab7ddf01d285ad857dfeba5559",
+      "size": 7647060
+    },
+    "Comando-watch.png": {
+      "sha256": "194b2d2255238228dac1e7b3423bc4b503a4edd0e2dc5fea0c4054b0be7eae90",
+      "size": 803195
+    },
+    "Comando-watch-200.png": {
+      "sha256": "d661cf9f859b240d7c3d94de1473392a9160d3e8fd5622f612afdab75ad56905",
+      "size": 50845
+    },
+    "Comando-night.png": {
+      "sha256": "02d881c83d83d9a083633ee0a1fa220eb9d6b69ee8807bca226ad4e42ef929cd",
+      "size": 797491
+    },
+    "Comando-aod.png": {
+      "sha256": "f754222b7a75170933e8f13a15ee9ee05c7d1e3976db1db9e512bc4fa06970bb",
+      "size": 308932
+    },
+    "Comando-watch-qr.png": {
+      "sha256": "99f71e90877058804230f3d381eda4bbda2a305e3350df5bedff1c1b9260fe00",
+      "size": 1672982
+    }
+  }
+}
