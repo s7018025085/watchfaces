@@ -5,43 +5,47 @@
   "name": "Comando",
   "slug": "Comando",
   "version": "1.0.0",
-  "publishedAt": "2026-11-17T07:48:25.084Z",
+  "publishedAt": "2026-11-17T07:57:48.025Z",
   "files": {
     "Comando.zpk": {
-      "sha256": "7b14723277cf82fff42c63fa536f906f7eff7cdd99c4f3827f2144f37e66cb7a",
-      "size": 1331999
+      "sha256": "eb2d503cbcc0b1f6029851364cd1ff3bcf6ae621ab76aae32fe4f6ac963fc20d",
+      "size": 1331349
     },
     "device.zip": {
-      "sha256": "38371c9963cb84450ce416d6d3ab1b5dc09e52068292615a4de848e9b34f547a",
-      "size": 1351522
+      "sha256": "5cfe20c74125545d6db0f9c7bf825a730896d5d97b432ff8d688716d11ab2cd7",
+      "size": 1350881
     },
     "project.zip": {
-      "sha256": "e301c4ebd3c068473031b28b0041695e79ba0a1a63c98d855b004de0c166af5f",
-      "size": 5195004
+      "sha256": "8c1a70fa4f9d6a541eeed628f62bd145c5bbbef9c63ffcf64ad4b9f761dc1d97",
+      "size": 5205354
     },
     "Comando.watchface.json": {
-      "sha256": "8a78b003e87264f2fc6d9d8acead98518c97c61082d8b06142c673339d9eb81a",
-      "size": 10271103
+      "sha256": "1f91a8610b17bda2e1371f6aa39601da21b72b4f666c65d8bd161cf262072e7f",
+      "size": 10269987
     },
     "Comando-watch.png": {
-      "sha256": "a852ef609bc05c7f1c1c946ae79c59e9f0f409e36932272d7bb1ce2d4b2d3b37",
-      "size": 804880
+      "sha256": "dae6798737a233898d5921a5309a837dd8212f403dd08fecf879b1dc2bd7fb64",
+      "size": 803125
     },
     "Comando-watch-200.png": {
-      "sha256": "dcb06fd5acb5c8243e803032b03afd7f2f6c3a84e6f5607d60c3a48ca6c5efe1",
-      "size": 51437
+      "sha256": "b119c4fb3700c03434958f08ed687e11438ae6ec03e8e403404c11e25ee2091a",
+      "size": 51547
     },
     "Comando-night.png": {
-      "sha256": "45b3cd3765d8c5a6eb8b8f031f0aaa8d3dd6b63625b4f9949f85d4de1f53e544",
-      "size": 550408
+      "sha256": "9370e4165c7990e40c35f32e4ac0b1f7421161d54217696e8ccd4da7bddf7c8d",
+      "size": 550954
     },
     "Comando-aod.png": {
       "sha256": "db8cf8d5d2b0ce0f87a1ce4390235446c67c4f84f3eba497761d48708be3b82e",
       "size": 309259
     },
+    "Comando-tap-zones.png": {
+      "sha256": "760191b9455b622c174991e48e3cf451cee5e97483e9b75d8b51dc59639415f1",
+      "size": 1539747
+    },
     "Comando-watch-qr.png": {
-      "sha256": "622c1e341804c7833df11359b4b6c466c4aa838aed5f003045bf2bf773a45b9a",
-      "size": 1774432
+      "sha256": "7f8276102d638996bddf7a54519b9950a5a6461b01e7fc5095d589a725a97510",
+      "size": 1773892
     }
   }
 }
