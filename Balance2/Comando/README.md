@@ -10,8 +10,14 @@
 | :--: | :--: | :--: |
 | ![Дневной · основной](Comando-watch.png) | ![Ночной](Comando-night.png) | ![AOD](Comando-aod.png) |
 
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](Comando-tap-zones.png)
+
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-17T07:48:25.084Z
+- **Опубликовано:** 2026-11-17T07:57:48.025Z
 - **Установочный пакет:** [Comando.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk`
 
@@ -31,5 +37,6 @@
 - `Comando-aod.png` — превью AOD в полном качестве
 - `Comando-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `Comando-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `Comando-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `Comando.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
