@@ -17,7 +17,7 @@
 ![Зоны нажатия](Comando-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-17T07:57:48.025Z
+- **Опубликовано:** 2026-11-17T12:40:03.991Z
 - **Установочный пакет:** [Comando.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando/Comando.zpk`
 
