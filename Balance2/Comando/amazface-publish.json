@@ -5,43 +5,43 @@
   "name": "Comando",
   "slug": "Comando",
   "version": "1.0.0",
-  "publishedAt": "2026-11-17T07:00:11.151Z",
+  "publishedAt": "2026-11-17T07:18:52.007Z",
   "files": {
     "Comando.zpk": {
-      "sha256": "248bf00fefb3781469fb0daa484967a40ea0669aa22b22d730112962a32600ac",
-      "size": 1320813
+      "sha256": "aefaa857787a30094a0b59731c430218246ee468fcb4049036f36ee4a898bb38",
+      "size": 1323465
     },
     "device.zip": {
-      "sha256": "db557c525fb59f0d29901d0cc14cca4d7a5d2badca1ca5719a346907920ddbd2",
-      "size": 1340312
+      "sha256": "c4e728f21f7ef396152d10b4f4e406d1f0fa9a812bab3bff40f7a32cf8f76034",
+      "size": 1342945
     },
     "project.zip": {
-      "sha256": "af73743d9b1fbf98a02b22f0879ffd1babf2cf214fd54f0e329bebc80ea41f00",
-      "size": 5152146
+      "sha256": "596aa6b8fa8655be9157598039c38a19599063a6333c30da58f55607ba779019",
+      "size": 5156944
     },
     "Comando.watchface.json": {
-      "sha256": "3459e8497e046db29283fab2be94a3109c118a783cd5050cd7aee46cbc1ca984",
-      "size": 10263372
+      "sha256": "da982d09471ed6f7978f116330c9d365e9d9c622fcbb192fa5e489bb3b8fa900",
+      "size": 10265222
     },
     "Comando-watch.png": {
-      "sha256": "b94d2723e954472c3ae6a53f37ae5fb13962e0d8cb2dd5fb86f706f8ed687094",
-      "size": 800291
+      "sha256": "2422ba9e13af9be96875bee41be23ecc18493c5cbd52213ade3a6150fc7efb48",
+      "size": 804193
     },
     "Comando-watch-200.png": {
-      "sha256": "483a51cffad9c6a48d42d7e9ff857454479b42b17674047ae1a2c602907f7899",
-      "size": 51554
+      "sha256": "317be4fb250858b070f68f994e23ca649da6f6d189952fc6c740300d11dc0a93",
+      "size": 51515
     },
     "Comando-night.png": {
-      "sha256": "a72849499a0d4b5fbf287245e958df640b1188c3bc35e565f274d5fffbc1bd61",
-      "size": 547531
+      "sha256": "4ccadeaff5de2bceefe3d558c8c7bc580f74eb1023b96f7d2e5f3457ee89de27",
+      "size": 547748
     },
     "Comando-aod.png": {
-      "sha256": "fc6f071381052755ee3880245c961b1dcf8e65011e911cfc5fbd55c0212b70b7",
-      "size": 308986
+      "sha256": "db8cf8d5d2b0ce0f87a1ce4390235446c67c4f84f3eba497761d48708be3b82e",
+      "size": 309259
     },
     "Comando-watch-qr.png": {
-      "sha256": "d15e98607965b6cca32466ce75f1322b41f0a0fe471773e62155710cde06028a",
-      "size": 1771471
+      "sha256": "f43710db85a77297f53743650656cc7254d73e0205bbd57d5ddda1b57e372d35",
+      "size": 1775002
     }
   }
 }
