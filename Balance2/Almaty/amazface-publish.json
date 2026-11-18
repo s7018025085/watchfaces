@@ -5,47 +5,47 @@
   "name": "Almaty",
   "slug": "Almaty",
   "version": "1.0.0",
-  "publishedAt": "2026-11-11T16:54:37.552Z",
+  "publishedAt": "2026-11-18T19:05:40.035Z",
   "files": {
     "Almaty.zpk": {
-      "sha256": "9eb9399e704e1656df13d9df054aa7b22bd4ae1ecd34165eda3ea2f2c37a2282",
-      "size": 1610944
+      "sha256": "2efbe55783e1f702883dc3681c388bc77923001e1e065d155dbb5090469870df",
+      "size": 310952
     },
     "device.zip": {
-      "sha256": "e33fc49544900b5040a4ba84355ad638f44245efd7a5609926e55940c6939dd2",
-      "size": 1627177
+      "sha256": "922abe294dc310823f56cff70856fd9aac56be3c0f395e4c35d91e6b9d9d6a9c",
+      "size": 327034
     },
     "project.zip": {
-      "sha256": "dd043edaf88387a11510b0d3ea6a9758bf5bff77019765183f4e17d772e6679c",
-      "size": 4082253
+      "sha256": "d34d8e563cadfbc9966bbb0d3fd54afb97ba10e414de14800368bba075351098",
+      "size": 1837149
     },
     "Almaty.watchface.json": {
-      "sha256": "36b2bb0fa60aecc655a4ceb1fc319871010f9097ab27f8cd4b02d20c8e94a516",
-      "size": 6329461
+      "sha256": "9b48c48fa4b5f0d98e03ea18c7206cd4c22ec308866e02c1bc6bbf2f81886b03",
+      "size": 3334097
     },
     "Almaty-watch.png": {
-      "sha256": "c32fddc845000048fbf66aad669beb5e4daf713144aed650ba0ef6189c5cf0a5",
-      "size": 962293
+      "sha256": "e8d46ebbd880d76222fd1dd7e584cace5949de9a35f0759331a04aad3c584252",
+      "size": 951909
     },
     "Almaty-watch-200.png": {
-      "sha256": "392b950ed2d5a95bbe557f5d4cde8e94f94b612886bce5f64ab7045c821322d0",
-      "size": 59466
+      "sha256": "da4947ad6a312d68cf050c30f393b9da97f06cab47c1d85282dafb285df069d3",
+      "size": 59595
     },
     "Almaty-night.png": {
-      "sha256": "6e7db120e0c159eca5a4e356d289f6283ce0fdb2bc6d5fed9ebaf612c820b59a",
-      "size": 961255
+      "sha256": "4bf625d249587b9569401420f25e54d190f14d0ec0f0e5c86edcb140342c326a",
+      "size": 960864
     },
     "Almaty-aod.png": {
-      "sha256": "01fda03dc85033f0b16952554421c55e9f2206808ba32472ec6a395776ac7991",
-      "size": 309036
+      "sha256": "15c0463b22e89a34adcecbbcd0ac466d80d64ce490318c6668c7a5daba164816",
+      "size": 309201
     },
     "Almaty-tap-zones.png": {
-      "sha256": "bafeb73d48f91c598dcceb165b59cc4471f72ba8cfd2590c21605315ed8ea4e4",
-      "size": 1606052
+      "sha256": "b3f8141e57b7042dde5aa454b7bcf9f7ea3d3538443c47ac81deead02d7acebd",
+      "size": 1596100
     },
     "Almaty-watch-qr.png": {
-      "sha256": "a3f2205cf495955537dcc6ced7c1e020e3a8d97742e6f3dfde50e08e4072c119",
-      "size": 1858347
+      "sha256": "f4dcce27a147e5b4a33157ac38760c4464dc1f69def30009b3a5455448883ad0",
+      "size": 1827335
     }
   }
 }
