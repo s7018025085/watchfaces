@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3412828",
+  "name": "Almaty hc",
+  "slug": "Almaty_hc",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-19T18:04:03.728Z",
+  "files": {
+    "Almaty_hc.zpk": {
+      "sha256": "0f6588c587c03069f58e69a754a4ab3d38608d787c7d9da98471bfa530937251",
+      "size": 314091
+    },
+    "device.zip": {
+      "sha256": "ba3260b229e69af720efdca0f079b74845b7de37849370c73c95af23a4899e81",
+      "size": 330163
+    },
+    "project.zip": {
+      "sha256": "7afb05f31d19005b29443eb3b39d4f04149fa42fd10f2db5d90b88e108f7f386",
+      "size": 1852424
+    },
+    "Almaty_hc.watchface.json": {
+      "sha256": "792b32d9f963d90c2a6e61f92f91ba5afce8fae02b4b6a7b25b86d4eb4e49fb6",
+      "size": 3336954
+    },
+    "Almaty_hc-watch.png": {
+      "sha256": "32c36b0eddd9862f57fee5f93a375b188f6597a7d7996f45ecfbf75215d8b6e4",
+      "size": 961619
+    },
+    "Almaty_hc-watch-200.png": {
+      "sha256": "06f3a17f763fcfd69af7643ca000e4cb671435d1a3f5c4764a39f3ecada674cc",
+      "size": 59547
+    },
+    "Almaty_hc-night.png": {
+      "sha256": "4bf625d249587b9569401420f25e54d190f14d0ec0f0e5c86edcb140342c326a",
+      "size": 960864
+    },
+    "Almaty_hc-aod.png": {
+      "sha256": "15c0463b22e89a34adcecbbcd0ac466d80d64ce490318c6668c7a5daba164816",
+      "size": 309201
+    },
+    "Almaty_hc-tap-zones.png": {
+      "sha256": "cd8892abf5de311ab9e07d1574daa407ff22ae33436c41d2752b77bcc862b1e3",
+      "size": 1606533
+    },
+    "Almaty_hc-watch-qr.png": {
+      "sha256": "b8bc9c9184f11a0501060cb7becf41f30951e7e46e84877c4fdc4db26c1c04a8",
+      "size": 1837409
+    }
+  }
+}
