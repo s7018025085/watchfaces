@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "9421397",
+  "name": "HYBRID_CHARGE",
+  "slug": "HYBRID_CHARGE",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-20T03:46:51.536Z",
+  "files": {
+    "HYBRID_CHARGE.zpk": {
+      "sha256": "78c7e6882d9c7bd5a97778653d8603f712e293c449f696fe3797028cc2baea3d",
+      "size": 8968
+    },
+    "device.zip": {
+      "sha256": "e97d8c28007452b13b3d7ddc13fde5cb584ce0a46d9e80f2ce4b71951bd8a1b7",
+      "size": 19638
+    },
+    "project.zip": {
+      "sha256": "984ce264b6eaa3a98a3f62990d09d4d6ff80985bef05c0bc5d3367965694cff1",
+      "size": 84050
+    },
+    "HYBRID_CHARGE.watchface.json": {
+      "sha256": "adf2fb7a97a8bf1580893a8cb708c30d76388c76f25d7a5ef6511d5a42131139",
+      "size": 20989
+    },
+    "HYBRID_CHARGE-watch.png": {
+      "sha256": "b5c2fa77f3927cf5afe18dea2cab6096c1e4c93d296e05dbc28351e38b0edfb6",
+      "size": 303659
+    },
+    "HYBRID_CHARGE-watch-200.png": {
+      "sha256": "4f1f4bf9602c8e40ab3e647776a5629fc771a1717e886d7519e99edc5fda75dd",
+      "size": 25642
+    },
+    "HYBRID_CHARGE-aod.png": {
+      "sha256": "f4a73a3fbb6f8289ddb427081dd6720690e96634fb1f4b1eef47ebfc69366eab",
+      "size": 293398
+    },
+    "HYBRID_CHARGE-watch-qr.png": {
+      "sha256": "204209880c2f79ba65985bc38614ea767c10f71b7c5388cc9a66102b24e49cb0",
+      "size": 1253158
+    }
+  }
+}
