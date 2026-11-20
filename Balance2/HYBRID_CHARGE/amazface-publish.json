@@ -5,39 +5,39 @@
   "name": "HYBRID_CHARGE",
   "slug": "HYBRID_CHARGE",
   "version": "1.0.0",
-  "publishedAt": "2026-11-20T08:24:13.261Z",
+  "publishedAt": "2026-11-20T11:04:08.641Z",
   "files": {
     "HYBRID_CHARGE.zpk": {
-      "sha256": "d8962fc90fc13ee909ab938af8d40174d3e250bc547ff090236e6a911e4e444d",
-      "size": 11548
+      "sha256": "834f694478117fe2a8b1777545f2317751f92f855ccd3a7c2b867772f3d9f5bb",
+      "size": 30137
     },
     "device.zip": {
-      "sha256": "a7fe7f676cd1773ae3228b2ab4182616359c7965667a1c4ce7cfd37fcb05ce89",
-      "size": 22639
+      "sha256": "92f1eff98b651c08ea2b0edf65e9c59b5171fefd159f5fdf34a149af6e286560",
+      "size": 44386
     },
     "project.zip": {
-      "sha256": "c10bff597fe257521b30b2f75b45559d92c2af5cac4a9ae5653ae2dd65532c1e",
-      "size": 100391
+      "sha256": "8d3df9e7b6a0739874d2d35c44125677a9006240913e0d9bd107badea9b13917",
+      "size": 123175
     },
     "HYBRID_CHARGE.watchface.json": {
-      "sha256": "3a0aa37ee85136815f9c165105eb81910aca8982840382324536b0b6f3f31b73",
-      "size": 26173
+      "sha256": "390deff84d942985dbcd76b58762e3e3a2ce6c43996a96174df124f692a095a3",
+      "size": 63574
     },
     "HYBRID_CHARGE-watch.png": {
-      "sha256": "47335a793b2cf785399c9e275f0c2214922451abb56e495ffdb47d472da53c23",
-      "size": 307547
+      "sha256": "3c4f55e3d7640b8427f0257d6eb4c59167f9b561c0c63c9e665f12c1bef60ce1",
+      "size": 304485
     },
     "HYBRID_CHARGE-watch-200.png": {
-      "sha256": "20c8cadfa263488d81201592bf3b87a1cb8c555ee08ed38f8a06330427fbf7f6",
-      "size": 26201
+      "sha256": "aab44133453390d2456df37fe3130ced236f8a524323b0898f167bfd86f5b720",
+      "size": 25635
     },
     "HYBRID_CHARGE-aod.png": {
       "sha256": "f4a73a3fbb6f8289ddb427081dd6720690e96634fb1f4b1eef47ebfc69366eab",
       "size": 293398
     },
     "HYBRID_CHARGE-watch-qr.png": {
-      "sha256": "ecfbc0f9264d7e3aed5547ee9591a5dca06b885aa6e7e370c507bf9f5fbe0d9d",
-      "size": 1257976
+      "sha256": "e831d0eb6ae8d7f6fa7e5c66615a5d1610cf4b7494a71481e95280e57c2d95d9",
+      "size": 1251710
     }
   }
 }
