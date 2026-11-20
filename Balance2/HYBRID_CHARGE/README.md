@@ -11,7 +11,7 @@
 | ![Дневной · основной](HYBRID_CHARGE-watch.png) | ![AOD](HYBRID_CHARGE-aod.png) |
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-20T03:46:51.536Z
+- **Опубликовано:** 2026-11-20T03:49:42.298Z
 - **Установочный пакет:** [HYBRID_CHARGE.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/HYBRID_CHARGE/HYBRID_CHARGE.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/HYBRID_CHARGE/HYBRID_CHARGE.zpk`
 
