@@ -46,7 +46,7 @@
       "visible": true,
       "locked": false,
       "props": {
-        "data_source": "AUTO",
+        "data_source": "READINESS",
         "number_size": 56,
         "number_color": "#ffffff",
         "number_dx": 0,
@@ -145,7 +145,7 @@
           "visible": true,
           "locked": false,
           "props": {
-            "data_source": "AUTO",
+            "data_source": "READINESS",
             "number_size": 56,
             "number_color": "#ffffff",
             "number_dx": 0,
