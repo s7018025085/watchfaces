@@ -5,31 +5,31 @@
   "name": "Almaty",
   "slug": "Almaty",
   "version": "1.0.0",
-  "publishedAt": "2026-11-18T19:09:36.788Z",
+  "publishedAt": "2026-11-21T16:41:05.569Z",
   "files": {
     "Almaty.zpk": {
-      "sha256": "a98545fda7b8458024c9d98ca4288c03801e35f7edad57dfa54f01a64515e45c",
-      "size": 315332
+      "sha256": "8264baf9a8977354326fda441d8c2547e4571a67396c46195e63c36cd384a084",
+      "size": 315382
     },
     "device.zip": {
-      "sha256": "ab757a4fd4217757d0941169b0a2013485ff6efc82d9407d67ab069042624ce3",
-      "size": 331416
+      "sha256": "f5a2f3225d6ca9577a7132d1c37e0bcedc07b89bb94bcf02c381c47decbea1a1",
+      "size": 331479
     },
     "project.zip": {
-      "sha256": "4c545cfc44b89f505fc96af9fa6f7cd823fd43cbf250fed02f98e62c3eb63667",
-      "size": 1852177
+      "sha256": "6534850a46aa5691324d7f98cdad12e93ae0d299e99fd1b0f2ce6392061cd8e0",
+      "size": 1850864
     },
     "Almaty.watchface.json": {
-      "sha256": "5e6472ba2263591e73742e5fd064b45fa4107e030fb146125c75a72c2f8a4501",
-      "size": 3337663
+      "sha256": "6d8cab6b656f07444868351cebe2e8d8adfdada01dbe6fa8be37df456abfc02b",
+      "size": 3335983
     },
     "Almaty-watch.png": {
-      "sha256": "516b0b1b70631339225425f7887b812a7066497eadf40fc200a11bd6b3ebe5e3",
-      "size": 961426
+      "sha256": "af5e3446f08c8c54b63d18fefefb5ef63e68e0c35da156f55b671647b99af7ee",
+      "size": 962001
     },
     "Almaty-watch-200.png": {
-      "sha256": "5a8a3a2b194dee0193daf2885765f42937b273b344d0f0fa6e920bf10be389d8",
-      "size": 59578
+      "sha256": "97d02c9f238bc8e2a4d42261f41593d260c98d28ac8acbda2a60e56b83b69ce8",
+      "size": 59482
     },
     "Almaty-night.png": {
       "sha256": "4bf625d249587b9569401420f25e54d190f14d0ec0f0e5c86edcb140342c326a",
@@ -40,12 +40,12 @@
       "size": 309201
     },
     "Almaty-tap-zones.png": {
-      "sha256": "4fcdc58c7b40c5783b417ce01e28412a0980f8c1670e4c4612b3e48f946d911b",
-      "size": 1605870
+      "sha256": "3dc6bbca399a90849362fb2f3dd9397b79ccd6e417b1d964357c3b37459664cb",
+      "size": 1606747
     },
     "Almaty-watch-qr.png": {
-      "sha256": "5663292fbb2e8efbc3572dfd95d2f003935b09ba9ba8e1fedfefab5a14145e91",
-      "size": 1836368
+      "sha256": "b5ca1f00150ec475c8ac6a701832974c8fa78713b9433b84a55285b9ff2d7686",
+      "size": 1836252
     }
   }
 }
