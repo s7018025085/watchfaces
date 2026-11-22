@@ -1,0 +1,43 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "4084917",
+  "name": "MobLand",
+  "slug": "MobLand",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-22T16:29:13.428Z",
+  "files": {
+    "MobLand.zpk": {
+      "sha256": "5dcdaea1ce4b92a8e49a54b9e5ea5d113a228747cc765de60a8f064433d2661f",
+      "size": 1348773
+    },
+    "device.zip": {
+      "sha256": "90c28642889b27f65c1c4e2f2178c52b5ec6fbb878190755b402f19b2cbe70da",
+      "size": 1348743
+    },
+    "project.zip": {
+      "sha256": "3f96472c1e23825d8999e7b54c09bef9658e74041c5aca7f8c72d77015ec5344",
+      "size": 4448699
+    },
+    "MobLand.watchface.json": {
+      "sha256": "152febf1554d29dc23efb3056b5703ff097e27fab8b0b769dccf9cce2ee2f2e5",
+      "size": 4669916
+    },
+    "MobLand-watch.png": {
+      "sha256": "122f9cb643f827ace68a454b4dc339a26fced541597c3bc2acec32c411fa218a",
+      "size": 864333
+    },
+    "MobLand-watch-200.png": {
+      "sha256": "608484a6bee60a372b21285c90318852e92b4ee1cad2351e43e54c816957e900",
+      "size": 51341
+    },
+    "MobLand-aod.png": {
+      "sha256": "163a8723a91dbaff49b54574800a50741e3521f05f16d2d17f2ca679ae260eb0",
+      "size": 293385
+    },
+    "MobLand-watch-qr.png": {
+      "sha256": "bd4d1ca642c3b476f06ca13ab544203f7c08c567185879bd8550a3ac7dcf9ce1",
+      "size": 1714025
+    }
+  }
+}
