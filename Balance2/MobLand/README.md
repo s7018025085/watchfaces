@@ -6,12 +6,18 @@
 
 ## Превью циферблата
 
-| Дневной · основной | AOD |
-| :--: | :--: |
-| ![Дневной · основной](MobLand-watch.png) | ![AOD](MobLand-aod.png) |
+| Дневной · основной | Ночной | AOD |
+| :--: | :--: | :--: |
+| ![Дневной · основной](MobLand-watch.png) | ![Ночной](MobLand-night.png) | ![AOD](MobLand-aod.png) |
+
+## Зоны нажатия
+
+Номера на циферблате соответствуют списку справа: там указано, что открывается по нажатию.
+
+![Зоны нажатия](MobLand-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-22T16:29:13.428Z
+- **Опубликовано:** 2026-11-22T17:35:40.257Z
 - **Установочный пакет:** [MobLand.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/MobLand/MobLand.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/MobLand/MobLand.zpk`
 
@@ -27,8 +33,10 @@
 - `device.zip` — содержимое для устройства (то же, что внутри пакета)
 - `project.zip` — полный проект Zepp OS
 - `MobLand-watch.png` — дневной, основной циферблат в полном качестве
+- `MobLand-night.png` — ночной циферблат в полном качестве
 - `MobLand-aod.png` — превью AOD в полном качестве
 - `MobLand-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `MobLand-watch-qr.png` — мокап часов с циферблатом и QR-кодом
+- `MobLand-tap-zones.png` — карта зон нажатия: что открывается по тапу
 - `MobLand.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
