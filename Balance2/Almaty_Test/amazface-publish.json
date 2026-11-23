@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3412828",
+  "name": "Almaty Тест",
+  "slug": "Almaty_Test",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-23T18:24:14.095Z",
+  "files": {
+    "Almaty_Test.zpk": {
+      "sha256": "1df2e77fe3376cc5895384db72fca6fc392d76acf87975fdb2d2a53839c810c2",
+      "size": 314423
+    },
+    "device.zip": {
+      "sha256": "1294e2c63af220f3c338f3eb05d387adddb1f50456eb6206f193fc646539d93d",
+      "size": 330531
+    },
+    "project.zip": {
+      "sha256": "f090d917b1c2ea097f15b6e5b98e1c911a03d10bb70a06fb36ad7922868c628b",
+      "size": 1856455
+    },
+    "Almaty_Test.watchface.json": {
+      "sha256": "dc2b48afa7b4a981e31d4e467a00f13a32728b98d83e0671ed68663986fb1a05",
+      "size": 3364596
+    },
+    "Almaty_Test-watch.png": {
+      "sha256": "3d4480fff0612732922a506670c21027c93f4cbd7543332abdfab7226264d559",
+      "size": 962884
+    },
+    "Almaty_Test-watch-200.png": {
+      "sha256": "ab1a914ec6aa5897480b1d3dba921986cea6d29a6614ec3ae24c3a8e1f8bb404",
+      "size": 59632
+    },
+    "Almaty_Test-night.png": {
+      "sha256": "4bf625d249587b9569401420f25e54d190f14d0ec0f0e5c86edcb140342c326a",
+      "size": 960864
+    },
+    "Almaty_Test-aod.png": {
+      "sha256": "15c0463b22e89a34adcecbbcd0ac466d80d64ce490318c6668c7a5daba164816",
+      "size": 309201
+    },
+    "Almaty_Test-tap-zones.png": {
+      "sha256": "89d1eaf887d611be8ee613be627ea539ed09b15c73c4bb0b72f1978124cfb8ae",
+      "size": 1608596
+    },
+    "Almaty_Test-watch-qr.png": {
+      "sha256": "8f9861912c214d33ecdd43e7e76b8719a1da5adb2fdfa533f6072aaa1c259460",
+      "size": 1840072
+    }
+  }
+}
