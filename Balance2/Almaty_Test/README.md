@@ -17,7 +17,7 @@
 ![Зоны нажатия](Almaty_Test-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-23T18:38:38.395Z
+- **Опубликовано:** 2026-11-23T18:43:31.921Z
 - **Установочный пакет:** [Almaty_Test.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty_Test/Almaty_Test.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Almaty_Test/Almaty_Test.zpk`
 
