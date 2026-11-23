@@ -19,7 +19,7 @@
 ![Зоны нажатия](MobLand-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-22T18:53:59.281Z
+- **Опубликовано:** 2026-11-23T17:14:20.808Z
 - **Установочный пакет:** [MobLand.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/MobLand/MobLand.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/MobLand/MobLand.zpk`
 
