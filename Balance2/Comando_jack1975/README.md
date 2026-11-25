@@ -17,7 +17,7 @@
 ![Зоны нажатия](Comando_jack1975-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-25T08:45:05.278Z
+- **Опубликовано:** 2026-11-25T08:52:40.823Z
 - **Установочный пакет:** [Comando_jack1975.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando_jack1975/Comando_jack1975.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando_jack1975/Comando_jack1975.zpk`
 
