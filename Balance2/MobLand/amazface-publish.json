@@ -5,51 +5,51 @@
   "name": "MobLand",
   "slug": "MobLand",
   "version": "1.0.0",
-  "publishedAt": "2026-11-23T19:34:19.633Z",
+  "publishedAt": "2026-11-25T11:13:12.075Z",
   "files": {
     "MobLand.zpk": {
-      "sha256": "af827405febac798d0c4298a5968f9813da64701480ea2f9b0fc945767bd962a",
-      "size": 1260715
+      "sha256": "6461283f848c78b4669e1152c47a13ef24732dc063cb1391a740a025539d6c18",
+      "size": 1258912
     },
     "device.zip": {
-      "sha256": "d4ca0feca09850dcd1ea6500a6f5658a978ea11ae0ed881fd991a324076ee627",
-      "size": 1282204
+      "sha256": "a2d26e6100b173b0218e5dae79f17f2b8e06de5777bab608dc813d1514a854cb",
+      "size": 1280356
     },
     "project.zip": {
-      "sha256": "0d62d1cda2e3bc022ec1f054fcebe13e1128d8fd29f462315344fb3479993608",
-      "size": 4343677
+      "sha256": "712cb166e77e706f70d56282d0fed0f3d8a1637e6559b9810c9eb90e0f87eeff",
+      "size": 4316237
     },
     "MobLand.watchface.json": {
-      "sha256": "6011a4e586f664b24ddb4e85540dd7270038f3b2483fbadb7a0774f7e7a313d7",
-      "size": 4899156
+      "sha256": "8e99990023bdcd2ad0a548ed956f988163899b10e462f6ce16de35ca1a49e32e",
+      "size": 4893522
     },
     "MobLand-watch.png": {
-      "sha256": "42fa67400ededee9c3f21fdb1dd661e346f329e6ea422ba098fa6b622aaef58d",
-      "size": 810762
+      "sha256": "958e5bbb513e672996d6b13e790c413f9d7ef1422047ae9bf563b651bea055c5",
+      "size": 633009
     },
     "MobLand-watch-200.png": {
-      "sha256": "3f92f49ba6edd2eb94c8d824c12d65065e700ff159b47e2a15a4bafded8746e4",
-      "size": 52003
+      "sha256": "6b4d0accbf6c75d099caadf75ba8cf0e607ddb18005de426953f58533e7ad790",
+      "size": 50030
     },
     "MobLand-night.png": {
-      "sha256": "e5808ba93048f8cd71954cc98c76529f5c109a15298400a4bbc40ef1f0d563b6",
-      "size": 810034
+      "sha256": "a162a32d59224d0aa9115ff5b96e456085f0e4bc8348b2b4194ccccdaa2290a8",
+      "size": 631351
     },
     "MobLand-aod.png": {
-      "sha256": "2bde718b4f271d9fd6fd712f9483374cecb839e389fa897ff5837e6f05139fc6",
-      "size": 302454
+      "sha256": "d449fe33dc6ec298ee82c608cd8b4972afa8ee71d3ed0c6a06af816091cc1903",
+      "size": 302545
     },
     "MobLand-tap-zones.png": {
-      "sha256": "4c705921fe853136a53420876cdf712aa03255d1905c71f6ca5a2c2b72a34492",
-      "size": 1462583
+      "sha256": "b7851649184f0a098fd5f9bd46aec14b943a2fb128704bcf07277090e3dd015c",
+      "size": 1328755
     },
     "MobLand-watch.gif": {
-      "sha256": "b0088e269ffbab9120833f269ec167a2ceda0ee683045ce7f2c64b4af4729142",
-      "size": 1775966
+      "sha256": "2edcaf4e691d4dd6c4208399327df0b7fb6c5dc247494c9aafdee9e9a7fc08ab",
+      "size": 1404840
     },
     "MobLand-watch-qr.png": {
-      "sha256": "c5a99b2a9a550d2dfb2f7b686a45fc9eb9474eb7ffba31c09f1a4bd13bd6f349",
-      "size": 1664823
+      "sha256": "464ab2031a9ae93af0e2fb690f431bfc451a990f793edd4ab8e722711ac240d1",
+      "size": 1834504
     }
   }
 }
