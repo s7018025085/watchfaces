@@ -5,47 +5,47 @@
   "name": "Comando jack1975",
   "slug": "Comando_jack1975",
   "version": "1.0.0",
-  "publishedAt": "2026-11-25T08:45:05.278Z",
+  "publishedAt": "2026-11-25T08:52:40.823Z",
   "files": {
     "Comando_jack1975.zpk": {
-      "sha256": "92d317fb17df1942831357ee88a20251f355f0e7f409ccc037711daff0eea453",
-      "size": 357927
+      "sha256": "b53e00a783bd668cd923d395924c207209daf039e92d7cff5217558379b1ca47",
+      "size": 368781
     },
     "device.zip": {
-      "sha256": "5670f0033fb3a831a24caa1bdfd859798622b0f183e68d50ac7c738cbaa44d6c",
-      "size": 373896
+      "sha256": "97849e5eb4cdd30d352dd55989d8b1c18ba9ce61da4a29b7acc58fad1f778157",
+      "size": 384931
     },
     "project.zip": {
-      "sha256": "31b2bbbdd18c5ee546217ac2c761de4aa2a1b6fca6c573d5e3d729843cb047bd",
-      "size": 1656259
+      "sha256": "5faa380f6ba5f37992bfc8eee918f3852cdc5aa45fda7131f5f89da139e4f972",
+      "size": 1677611
     },
     "Comando_jack1975.watchface.json": {
-      "sha256": "72cf52fe9f58397ce9e682c13ec1e003400b50e8b9710b7e4727517c47d06ff8",
-      "size": 5523971
+      "sha256": "0099e2d2d544c0fea6c6f6a77b8deffaef5616c4ea2a1d4e68e5efa6ed851036",
+      "size": 5524412
     },
     "Comando_jack1975-watch.png": {
-      "sha256": "f5bded75598f3aee508f57feb68471d3ee0dfe85ade810b3a32cdaa144c59214",
-      "size": 796505
+      "sha256": "a7a5bb304edd39c9810a54e7564855121ed1c2e6fc42ec1ced11055102b50a6b",
+      "size": 798001
     },
     "Comando_jack1975-watch-200.png": {
-      "sha256": "4fd844dff52a8e803f76a925f3b6229ae17339d4682f3567ea7880c735ac0057",
-      "size": 50530
+      "sha256": "dcacb331c8cd6bc8a280b14a1327cbbbcd4a49e4a553e42e5f3b1bff91909032",
+      "size": 50692
     },
     "Comando_jack1975-night.png": {
-      "sha256": "855418dbcb85605d20c0c1ae09faa758c6375b2426452ba2c9e09186ea31787e",
-      "size": 534859
+      "sha256": "0e359e6d4b00849dcbd98d300bf29940ab15fca1878fa04223015bfb2a3107e0",
+      "size": 530342
     },
     "Comando_jack1975-aod.png": {
-      "sha256": "02b1725b0ee3028614b1f758240f2ef9a204ce2a7c269784f50be3558e55627c",
-      "size": 309776
+      "sha256": "bb7d0b9f3748d24309ba4add92536a5484c6980a14845e9828e5ecdd57669437",
+      "size": 309478
     },
     "Comando_jack1975-tap-zones.png": {
-      "sha256": "bcdb398046ca25fcb7e06d045c34cc70719812fd8aa15f4f1c1cab9452f941ff",
-      "size": 1442764
+      "sha256": "c7486e955ecbef99c6cdaec1ca7d6e71d41773781d2f0744269ecf99a9aade9a",
+      "size": 1442290
     },
     "Comando_jack1975-watch-qr.png": {
-      "sha256": "ef8dba7b49a4f0dc25be70623e7e89eb9305d0dc77c1150d8cb0b2159f32efbf",
-      "size": 1631425
+      "sha256": "7917a1bdb5076990a50f7b2f3dd1ba6445dba5895feb3e23ef194370073c0027",
+      "size": 1632309
     }
   }
 }
