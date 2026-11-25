@@ -1,0 +1,51 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "5356320",
+  "name": "Comando jack1975",
+  "slug": "Comando_jack1975",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-25T08:45:05.278Z",
+  "files": {
+    "Comando_jack1975.zpk": {
+      "sha256": "92d317fb17df1942831357ee88a20251f355f0e7f409ccc037711daff0eea453",
+      "size": 357927
+    },
+    "device.zip": {
+      "sha256": "5670f0033fb3a831a24caa1bdfd859798622b0f183e68d50ac7c738cbaa44d6c",
+      "size": 373896
+    },
+    "project.zip": {
+      "sha256": "31b2bbbdd18c5ee546217ac2c761de4aa2a1b6fca6c573d5e3d729843cb047bd",
+      "size": 1656259
+    },
+    "Comando_jack1975.watchface.json": {
+      "sha256": "72cf52fe9f58397ce9e682c13ec1e003400b50e8b9710b7e4727517c47d06ff8",
+      "size": 5523971
+    },
+    "Comando_jack1975-watch.png": {
+      "sha256": "f5bded75598f3aee508f57feb68471d3ee0dfe85ade810b3a32cdaa144c59214",
+      "size": 796505
+    },
+    "Comando_jack1975-watch-200.png": {
+      "sha256": "4fd844dff52a8e803f76a925f3b6229ae17339d4682f3567ea7880c735ac0057",
+      "size": 50530
+    },
+    "Comando_jack1975-night.png": {
+      "sha256": "855418dbcb85605d20c0c1ae09faa758c6375b2426452ba2c9e09186ea31787e",
+      "size": 534859
+    },
+    "Comando_jack1975-aod.png": {
+      "sha256": "02b1725b0ee3028614b1f758240f2ef9a204ce2a7c269784f50be3558e55627c",
+      "size": 309776
+    },
+    "Comando_jack1975-tap-zones.png": {
+      "sha256": "bcdb398046ca25fcb7e06d045c34cc70719812fd8aa15f4f1c1cab9452f941ff",
+      "size": 1442764
+    },
+    "Comando_jack1975-watch-qr.png": {
+      "sha256": "ef8dba7b49a4f0dc25be70623e7e89eb9305d0dc77c1150d8cb0b2159f32efbf",
+      "size": 1631425
+    }
+  }
+}
