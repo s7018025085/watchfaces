@@ -5,23 +5,23 @@
   "name": "Almaty Тест",
   "slug": "Almaty_Test",
   "version": "1.0.0",
-  "publishedAt": "2026-11-27T19:38:14.790Z",
+  "publishedAt": "2026-11-27T19:41:03.279Z",
   "files": {
     "Almaty_Test.zpk": {
-      "sha256": "b48b7382f7f3930d944cc06862dfd35e43334bf8567373c8951b66801282b891",
-      "size": 564725
+      "sha256": "2a441b78a0b22922a847647ec0cdddd7c03f020819a3c398de10e20eec5bdcef",
+      "size": 565001
     },
     "device.zip": {
-      "sha256": "e5c0d16748f208761327d7696de3d6b1db9e25729583c717f35ebad9127dca48",
-      "size": 581034
+      "sha256": "8e8d5776053fd3473ebb4f46d26f3609fda0cacd563f050cc32318fc59a82d55",
+      "size": 581314
     },
     "project.zip": {
-      "sha256": "91d81b71b71770dfc5141da37ebcc08754dc93bef771b150e7d4ac25f0e423c0",
-      "size": 2633919
+      "sha256": "594bf749b864c5d51308f593cc10e65d180e6485dbc7118c5d4f0acb0513407c",
+      "size": 2635749
     },
     "Almaty_Test.watchface.json": {
-      "sha256": "5245b5968e1c02eea64866c140ccf21a6c447425dd20c2bbb64df07a488a303a",
-      "size": 4319822
+      "sha256": "f92bdcf1233014b21ed97f36a942e980c8dad3f4b5862b134d9edd3d26c91955",
+      "size": 4319864
     },
     "Almaty_Test-watch.png": {
       "sha256": "0fbaa89c3358436abc125e0999ba71348951dc1890559440ff0136634d16188b",
