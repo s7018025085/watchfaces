@@ -2,6 +2,8 @@
 
 Циферблат для Amazfit Balance 2 (Zepp OS), создан в редакторе AmazFace.
 
+![Анимация циферблата](Comando_jack1975-watch.gif)
+
 ![Часы с циферблатом и QR-кодом для установки](Comando_jack1975-watch-qr.png)
 
 ## Превью циферблата
@@ -17,7 +19,7 @@
 ![Зоны нажатия](Comando_jack1975-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-27T18:45:57.123Z
+- **Опубликовано:** 2026-11-27T19:12:00.742Z
 - **Установочный пакет:** [Comando_jack1975.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando_jack1975/Comando_jack1975.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Comando_jack1975/Comando_jack1975.zpk`
 
@@ -38,5 +40,6 @@
 - `Comando_jack1975-watch-200.png` — уменьшенный дневной мокап высотой 200 px
 - `Comando_jack1975-watch-qr.png` — мокап часов с циферблатом и QR-кодом
 - `Comando_jack1975-tap-zones.png` — карта зон нажатия: что открывается по тапу
+- `Comando_jack1975-watch.gif` — анимированное превью циферблата (GIF)
 - `Comando_jack1975.watchface.json` — исходник циферблата для редактора AmazFace («Открыть»)
 - `amazface-publish.json` — служебный файл AmazFace: защищает папку от случайной перезаписи другим проектом
