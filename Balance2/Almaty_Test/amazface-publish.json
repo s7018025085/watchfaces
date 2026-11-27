@@ -5,23 +5,23 @@
   "name": "Almaty Тест",
   "slug": "Almaty_Test",
   "version": "1.0.0",
-  "publishedAt": "2026-11-27T19:32:34.678Z",
+  "publishedAt": "2026-11-27T19:38:14.790Z",
   "files": {
     "Almaty_Test.zpk": {
-      "sha256": "e0826e423652a521285dbc5c8d46277efdf854051c11d9671b2eb66736b7abee",
-      "size": 553744
+      "sha256": "b48b7382f7f3930d944cc06862dfd35e43334bf8567373c8951b66801282b891",
+      "size": 564725
     },
     "device.zip": {
-      "sha256": "fa5b2a317eaa86203fc8a3720849281bf72b3c2f7c640fd3dcc860e217384b70",
-      "size": 570116
+      "sha256": "e5c0d16748f208761327d7696de3d6b1db9e25729583c717f35ebad9127dca48",
+      "size": 581034
     },
     "project.zip": {
-      "sha256": "b73a473b78499c38461ad5f436dc70915306fd6b891c440256f65fabefaad056",
-      "size": 2590606
+      "sha256": "91d81b71b71770dfc5141da37ebcc08754dc93bef771b150e7d4ac25f0e423c0",
+      "size": 2633919
     },
     "Almaty_Test.watchface.json": {
-      "sha256": "f5b895b6597c876df1c6b1ca826924bcd7e3c57a72addddce9e7c8839b3faff6",
-      "size": 4318817
+      "sha256": "5245b5968e1c02eea64866c140ccf21a6c447425dd20c2bbb64df07a488a303a",
+      "size": 4319822
     },
     "Almaty_Test-watch.png": {
       "sha256": "0fbaa89c3358436abc125e0999ba71348951dc1890559440ff0136634d16188b",
@@ -40,8 +40,8 @@
       "size": 309688
     },
     "Almaty_Test-tap-zones.png": {
-      "sha256": "56bca34d82d387c65054e0347f558e213f39a257bbef98e5531c7ea3410631ec",
-      "size": 1702001
+      "sha256": "bd716d51fe272a2f62dcd71a91ad58912a63f5d2d30992d43cf3a3cbbd38b594",
+      "size": 1712355
     },
     "Almaty_Test-watch.gif": {
       "sha256": "f49596bc90d745d14818a8565bb42e5d17b78fd5f65cfd3679409a2d101b98ba",
