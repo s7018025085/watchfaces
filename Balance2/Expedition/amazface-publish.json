@@ -5,23 +5,23 @@
   "name": "Expedition",
   "slug": "Expedition",
   "version": "1.0.0",
-  "publishedAt": "2026-11-28T09:39:25.756Z",
+  "publishedAt": "2026-11-28T10:26:50.219Z",
   "files": {
     "Expedition.zpk": {
-      "sha256": "23ce2a3bca9c05499b4755c538f3c19c749090fd497aa6bdfc1c59177e954909",
-      "size": 1659750
+      "sha256": "6ca58ead25e206af3579ff180910e88b3f7a9a16daff58a22cba82fd6b435355",
+      "size": 1659789
     },
     "device.zip": {
-      "sha256": "8d5ec1990cdb4cb941afee797c9de6601088e0c771ba5b115bc48816de2311dd",
-      "size": 1665990
+      "sha256": "a92fdaf78b51264e7b9520ee93616c506644066e9e0e5786fa1f20ac74f61967",
+      "size": 1666032
     },
     "project.zip": {
-      "sha256": "743478e58cb091fcd935628ddd25785afaf44e24d11a5fc1d4d407a5ee271206",
-      "size": 5891207
+      "sha256": "ab7d33a21b7fdb6c3452a1fe72114e3322063be8ed8eadee145dce4d53770937",
+      "size": 5895639
     },
     "Expedition.watchface.json": {
-      "sha256": "8d26ce38d840ff24beec20d4488d3bd954b5d395e5222ab9ad8644b2faedf62b",
-      "size": 7891523
+      "sha256": "e97e6d3af8975aa95c8734d16a80071f5f5fe7a595bc852dd899844dfcb2fc46",
+      "size": 7893629
     },
     "Expedition-watch.png": {
       "sha256": "a67f5401bf685c6b9f9798f03cf58dca4c674b1d3ed1386f5c49bb073f67a940",
@@ -32,16 +32,16 @@
       "size": 56811
     },
     "Expedition-night.png": {
-      "sha256": "b4d120ae8fd8301db0f3d22cbc9d8598711fa5978354d83f58c5b75620360876",
-      "size": 864715
+      "sha256": "902d2b547d499b184c46c6490a39246ae4444ae184d6c23b0ee69f602257524f",
+      "size": 837413
     },
     "Expedition-aod.png": {
       "sha256": "7e14f608a6f2a0237304362fa6d5a6ca189a10c15d441a5b2cdf75f16852a2e4",
       "size": 313599
     },
     "Expedition-tap-zones.png": {
-      "sha256": "b6f7c9de613c6b47b73869830ed3179fc0e3f1457df20845772643e791f74987",
-      "size": 1693896
+      "sha256": "ea3f9cbe737492c1c098941ad17a111ca6c16517acc1f33ebf85262b58b22c6f",
+      "size": 1698635
     },
     "Expedition-watch.gif": {
       "sha256": "ab2a5e389b62b61d558881752156b71d1e512629b36920de59a52eab5e7c7a65",
