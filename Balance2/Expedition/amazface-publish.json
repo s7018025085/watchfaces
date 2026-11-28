@@ -5,15 +5,15 @@
   "name": "Expedition",
   "slug": "Expedition",
   "version": "1.0.0",
-  "publishedAt": "2026-11-28T08:30:37.068Z",
+  "publishedAt": "2026-11-28T08:42:39.858Z",
   "files": {
     "Expedition.zpk": {
-      "sha256": "7b40a9dc576d12b6b56f164a98af709a7deae63ba51fbe79312d2c5a4ef3a25c",
-      "size": 1660817
+      "sha256": "a310f99cfbdeed91f1dd2640648f9ec268186c51db481f4914817f685aee4e33",
+      "size": 1660799
     },
     "device.zip": {
-      "sha256": "4fe3d6b362504d437ba5802c928e6e20d545cf99e135a4dc09bb81b1aed10c02",
-      "size": 1667042
+      "sha256": "72b26e24bec45dd07476c67aaf34e5ea0b71f1bea4a27adac0e0d034c003b42e",
+      "size": 1667043
     },
     "project.zip": {
       "sha256": "3103d666767c9583e597808f9b99c220abe33d86f3cb49adee1f90e41a73a827",
