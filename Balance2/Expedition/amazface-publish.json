@@ -5,18 +5,18 @@
   "name": "Expedition",
   "slug": "Expedition",
   "version": "1.0.0",
-  "publishedAt": "2026-11-28T09:27:58.196Z",
+  "publishedAt": "2026-11-28T09:39:25.756Z",
   "files": {
     "Expedition.zpk": {
-      "sha256": "ed940dc791d780a2e6721542b7630d593beeb7b0f096e7423ba09f98b642e17a",
-      "size": 1659752
+      "sha256": "23ce2a3bca9c05499b4755c538f3c19c749090fd497aa6bdfc1c59177e954909",
+      "size": 1659750
     },
     "device.zip": {
-      "sha256": "1e59d020ff65ec51ddcfaca8f683ba0997de440050077fd020d0e7c8cd705ae5",
-      "size": 1665992
+      "sha256": "8d5ec1990cdb4cb941afee797c9de6601088e0c771ba5b115bc48816de2311dd",
+      "size": 1665990
     },
     "project.zip": {
-      "sha256": "d517836775c9324dbd5eba02dbd998fa29b4e78ce763d5fc8a2e35de221e5252",
+      "sha256": "743478e58cb091fcd935628ddd25785afaf44e24d11a5fc1d4d407a5ee271206",
       "size": 5891207
     },
     "Expedition.watchface.json": {
