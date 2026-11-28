@@ -1,0 +1,55 @@
+{
+  "generator": "AmazFace",
+  "schema": 1,
+  "appId": "3593526",
+  "name": "Expedition",
+  "slug": "Expedition",
+  "version": "1.0.0",
+  "publishedAt": "2026-11-28T08:03:00.461Z",
+  "files": {
+    "Expedition.zpk": {
+      "sha256": "c7f97b6ee048699ec3056154be575474a919e8bdf5af2693ecb558664315f4ca",
+      "size": 1660800
+    },
+    "device.zip": {
+      "sha256": "b81dfc51777fcbe50ce867589caa55a2aa35bc60bb24ec94c3231575e7d34d41",
+      "size": 1667043
+    },
+    "project.zip": {
+      "sha256": "4022f35da4b6c3753df5a77427821d106d0e966a6d39bd737362457017a6f781",
+      "size": 5891142
+    },
+    "Expedition.watchface.json": {
+      "sha256": "3873282dd74b4deecfa6fea51087c30b15726efe2bb8fbc2976df1ff19ca7a3d",
+      "size": 38333030
+    },
+    "Expedition-watch.png": {
+      "sha256": "a67f5401bf685c6b9f9798f03cf58dca4c674b1d3ed1386f5c49bb073f67a940",
+      "size": 946139
+    },
+    "Expedition-watch-200.png": {
+      "sha256": "ab6729b574b94fb4d68debcc057f6c55b76d0253e90efeb6659f4781a681e37a",
+      "size": 56811
+    },
+    "Expedition-night.png": {
+      "sha256": "b4d120ae8fd8301db0f3d22cbc9d8598711fa5978354d83f58c5b75620360876",
+      "size": 864715
+    },
+    "Expedition-aod.png": {
+      "sha256": "7e14f608a6f2a0237304362fa6d5a6ca189a10c15d441a5b2cdf75f16852a2e4",
+      "size": 313599
+    },
+    "Expedition-tap-zones.png": {
+      "sha256": "b6f7c9de613c6b47b73869830ed3179fc0e3f1457df20845772643e791f74987",
+      "size": 1693896
+    },
+    "Expedition-watch.gif": {
+      "sha256": "1abe4e69f7c2a2107224f8c4e27df786502ea17720058945e54dfb8428a1a343",
+      "size": 2463981
+    },
+    "Expedition-watch-qr.png": {
+      "sha256": "097e16c500fb65183e6f1b05139ab67431cfc0c56f6a94afc032ae7ee96c2d16",
+      "size": 1932041
+    }
+  }
+}
