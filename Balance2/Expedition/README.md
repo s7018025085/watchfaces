@@ -19,7 +19,7 @@
 ![Зоны нажатия](Expedition-tap-zones.png)
 
 - **Версия:** 1.0.0
-- **Опубликовано:** 2026-11-28T09:39:25.756Z
+- **Опубликовано:** 2026-11-28T10:26:50.219Z
 - **Установочный пакет:** [Expedition.zpk](https://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Expedition/Expedition.zpk)
 - **Ссылка для QR (zpkd1://):** `zpkd1://raw.githubusercontent.com/s7018025085/watchfaces/main/Balance2/Expedition/Expedition.zpk`
 
