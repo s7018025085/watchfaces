@@ -5,23 +5,23 @@
   "name": "Expedition",
   "slug": "Expedition",
   "version": "1.0.0",
-  "publishedAt": "2026-11-28T08:54:46.395Z",
+  "publishedAt": "2026-11-28T09:27:58.196Z",
   "files": {
     "Expedition.zpk": {
-      "sha256": "b7bd5d39f84018a429cb88675f1476eea7cee6f3d001aae5ee1ac18c4cfaf24b",
-      "size": 1660811
+      "sha256": "ed940dc791d780a2e6721542b7630d593beeb7b0f096e7423ba09f98b642e17a",
+      "size": 1659752
     },
     "device.zip": {
-      "sha256": "4e69bde919e17ccf452baaae7db1f4d44ec7ceafe0cda9d6b3e5c0034589aec3",
-      "size": 1667045
+      "sha256": "1e59d020ff65ec51ddcfaca8f683ba0997de440050077fd020d0e7c8cd705ae5",
+      "size": 1665992
     },
     "project.zip": {
-      "sha256": "c9774845377c82136f44939bb7ae940490f5ae62f29a9e178e39c6f41541985b",
-      "size": 5891142
+      "sha256": "d517836775c9324dbd5eba02dbd998fa29b4e78ce763d5fc8a2e35de221e5252",
+      "size": 5891207
     },
     "Expedition.watchface.json": {
-      "sha256": "3873282dd74b4deecfa6fea51087c30b15726efe2bb8fbc2976df1ff19ca7a3d",
-      "size": 38333030
+      "sha256": "8d26ce38d840ff24beec20d4488d3bd954b5d395e5222ab9ad8644b2faedf62b",
+      "size": 7891523
     },
     "Expedition-watch.png": {
       "sha256": "a67f5401bf685c6b9f9798f03cf58dca4c674b1d3ed1386f5c49bb073f67a940",
@@ -44,8 +44,8 @@
       "size": 1693896
     },
     "Expedition-watch.gif": {
-      "sha256": "1abe4e69f7c2a2107224f8c4e27df786502ea17720058945e54dfb8428a1a343",
-      "size": 2463981
+      "sha256": "ab2a5e389b62b61d558881752156b71d1e512629b36920de59a52eab5e7c7a65",
+      "size": 2463957
     },
     "Expedition-watch-qr.png": {
       "sha256": "097e16c500fb65183e6f1b05139ab67431cfc0c56f6a94afc032ae7ee96c2d16",
